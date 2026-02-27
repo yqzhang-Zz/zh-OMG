@@ -20,7 +20,7 @@ redirect_from:
 
 # 🧑‍💻 关于OMG
 
-本人的<span style="color: #0b5394; font-weight: bold;">开放环境机器学习课题组（Open-environment Machine learning Group, 简称 OMG）</span>的科研兴趣活动最早可追溯至2021年9月。4年间先后指导多位学生获得清华和海外名校的全奖直博和保研offer；指导研究生和本科科研生在国际顶级期刊/CCF-A类会议如TPAMI，TCYB，TNNLS，SIGKDD，SIGMOD，NeurIPS，CVPR，ICCV，AAAI，IJCAI，ACM MM等发表论文数十篇；在高水平**国家级竞赛**如挑战杯国赛（自然科学类学术论文主赛道）、全国大学生计算机设计大赛等屡获殊荣。
+本人的<span style="color: #0b5394; font-weight: bold;">开放环境机器学习课题组（Open-environment Machine learning Group, 简称 OMG）</span>的科研兴趣活动最早可追溯至2021年9月。5年间先后指导多位学生获得清华和海外名校的全奖直博和保研offer；指导研究生和本科科研生在国际顶级期刊和CCF-A类会议如TPAMI，TCYB，TNNLS，SIGKDD，SIGMOD，NeurIPS，CVPR，ICCV，AAAI，IJCAI，ACM MM等发表论文数十篇；在高水平**国家级竞赛**如挑战杯国赛（自然科学类学术论文主赛道）、全国大学生计算机设计大赛等屡获殊荣。
 
 OMG常年招收自律性强、代码能力好、态度积极、表达清晰的
 <span style="color: #0b5394; font-weight: bold;">【推免生】</span>、
