@@ -19,18 +19,18 @@ redirect_from:
 
 # 🧑‍💻 关于OMG
 
-本人的开放环境机器学习课题组<strong>（Open-environment Machine learning Group, 简称 OMG）</strong>的科研兴趣活动最早可追溯至2021年9月。4年间先后指导多位学生获得清华和海外名校的全奖直博和保研offer；指导研究生和本科科研生在国际顶级期刊/CCF-A类会议如TPAMI，TCYB，TNNLS，SIGKDD，SIGMOD，NeurIPS，CVPR，ICCV，AAAI，IJCAI，ACM MM等发表论文数十篇；在高水平**国家级竞赛**如挑战杯国赛（自然科学类学术论文主赛道）、全国大学生计算机设计大赛等屡获殊荣。
+本人的<span style="color: #0b5394; font-weight: bold;">开放环境机器学习课题组（Open-environment Machine learning Group, 简称 OMG）</span>的科研兴趣活动最早可追溯至2021年9月。4年间先后指导多位学生获得清华和海外名校的全奖直博和保研offer；指导研究生和本科科研生在国际顶级期刊/CCF-A类会议如TPAMI，TCYB，TNNLS，SIGKDD，SIGMOD，NeurIPS，CVPR，ICCV，AAAI，IJCAI，ACM MM等发表论文数十篇；在高水平**国家级竞赛**如挑战杯国赛（自然科学类学术论文主赛道）、全国大学生计算机设计大赛等屡获殊荣。
 
 OMG常年招收自律性强、代码能力好、态度积极、表达清晰的
 <span style="color: #0b5394; font-weight: bold;">【推免生】</span>、
 <span style="color: #0b5394; font-weight: bold;">【研究生】</span> 和 
 <span style="color: #0b5394; font-weight: bold;">【本科科研生】</span>入组开展科研工作。具体研究方向可参考本人主页所列的论文和本人主持的科研项目。组内以前沿科学研究为主，即发表高水平学术论文（中科院SCI一区Top期刊论文、CCF-A类Top会议论文），产出科研成果后，可组织参加竞赛、申请专利、申报奖项等创新创业活动。
 
-**※ 有意入组的同学请仔细阅读OMG【价值观与目标】和【入组考核要求】后邮件联系本人（yqzhang@gdut.edu.cn）。发邮件需声明理解招生要求，附上个人简历，否则不予回复。**
+<span style="color: #d32f2f; font-weight: bold;">**※ 有意入组的同学请仔细阅读OMG【价值观与目标】和【入组考核要求】后邮件联系本人（yqzhang@gdut.edu.cn）。发邮件需声明理解招生要求，附上个人简历，否则不予回复。**</span>
 
-**※ 本人精力有限，资源有限，OMG仅能托举少量同学，因此每年仅招收约【研究生2-3人】和【本科科研生1-2人】。小组运作，亲自指导，全年滚动招生，入组名额先到先得。**
+<span style="color: #d32f2f; font-weight: bold;">****※ 本人精力有限，资源有限，OMG仅能托举少量同学，因此每年仅招收约【研究生2-3人】和【本科科研生1-2人】。小组运作，亲自指导，全年滚动招生，入组名额先到先得。**</span>
 
-**※ OMG学生培养无法速成，周期很长。本科科研生最晚入组申请时间原则上为大二寒假前，特别优秀者可适度放宽。研究生保研/考研至本组后需尽快入组（可线上）开展科研工作。**
+<span style="color: #d32f2f; font-weight: bold;">****※ OMG学生培养无法速成，周期很长。本科科研生最晚入组申请时间原则上为大二寒假前，特别优秀者可适度放宽。研究生保研/考研至本组后需尽快入组（可线上）开展科研工作。**</span>
 
 
 # 🎯 价值观与目标
