@@ -17,290 +17,89 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👨‍🏫 关于我
+# 🧑‍💻 关于OMG
 
-本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异质数据机器学习]** **[弱/无监督联邦学习]** **[非稳态数据分析]** 以及大语言模型在上述领域和行业中的应用。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇。
+<aside>
+💬 **关于OMG**
 
-<!--
-<a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-<a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ' target='_blank'><img src="https://img.shields.io/badge/citations-805-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>
--->
+</aside>
 
-主持**国家自然科学基金2项**（2024、2021）和省部级科研项目5项，入选广东特支计划（青年拔尖人才，2026）和深圳市高层次人才奖励计划（C类，2016）。现担任SCI期刊*IEEE Transactions on Emerging Topics in Computational Intelligence*（TETCI）副主编（Associate Editor）。在学术和人才培养方面获得多项荣誉，含广东**省科技进步二等奖**（2023），**最佳论文奖**（ISMIS’18，DOCS’24，2020年IEEE CIS论文评选），教育部-华为“智能基座”先锋教师称号等。
+---
 
-本人的开放环境机器学习课题组（Open-environment Machine learning Group, 简称OMG）长期招收和培养对科学研究感兴趣的保研生、考研生、本科科研生（招生详情和课题组简介见[关于OMG]）。
+本人的开放环境机器学习课题组**（Open-environment Machine learning Group, 简称OMG）**的科研兴趣活动最早可追溯至2021年9月。4年间先后指导多位学生获得清华和海外名校的全奖直博和保研offer；指导研究生和本科科研生在国际顶级期刊/CCF-A类会议如TPAMI，TCYB，TNNLS，SIGKDD，SIGMOD，NeurIPS，CVPR，ICCV，AAAI，IJCAI，ACM MM等发表论文数十篇；在高水平**国家级竞赛**如挑战杯国赛（自然科学类学术论文主赛道）、全国大学生计算机设计大赛等屡获殊荣。
 
-<span class='anchor' id="news"></span>
+OMG常年招收对机器学习和数据科学感兴趣的**【推免生】**、**【研究生】**和**【本科科研生】**入组开展科研和创新创业工作。具体研究方向可参考本人主页所列的论文和本人主持的科研项目。组内以前沿科学研究为主，即发表高水平学术论文（Top/中科院SCI一区期刊论文、CCF-A/B类Top会议论文），产出科研成果后，可组织参加竞赛、申请专利、申报奖项等创新创业活动。
 
-# 🔥 新闻
-- *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨教授！
-- *2026/01*: &nbsp;🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
-- *2026/01*: &nbsp;🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
-- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)”（TNNLS 2025）入选ESI高被引。
-- *2025/12*: &nbsp;🎉 两篇论文被**IoTJ**接收。
-  
-  ... ... 查看历史新闻请点[这里](/zh-news/) ... ...
+**※ 有意入组的同学请仔细阅读OMG【价值观与目标】和【入组体验内容】后邮件联系本人。邮件请说明来意，声明理解并符合招生要求，附上个人简历，否则不予回复。**
 
-<span class='anchor' id="publications"></span>
+**※ 本人精力有限，资源有限，OMG仅能托举少量同学，每年仅招收约【研究生2-3人】和【本科科研生1-2人】。小组运作，亲自指导，实时滚动招生，入组名额先到先得。**
 
-# 📝 论文
+**※ OMG学生培养无法速成，周期很长。本科科研生最晚入组申请时间原则上为大二寒假前，特别优秀者可适度放宽。研究生保研/考研复试后也需尽快入组开展科研工作。**
 
-**研究方向**
+<aside>
+🎯 **OMG价值观与目标**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">异质数据机器学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
-  
-- **异质特征数据表征学习**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'26</span>](https://arxiv.org/abs/2511.09049)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-SIGKDD'24</span>](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)
-<!--
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ESWA'25</span>](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003604)
--->
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'23</span>](https://ieeexplore.ieee.org/abstract/document/9887970)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TPAMI'22</span>](https://ieeexplore.ieee.org/abstract/document/9346004)
+</aside>
 
-- **异质特征数据距离度量**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
-<!--
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ICASSP'25</span>](https://ieeexplore.ieee.org/abstract/document/10889806)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ECAI'24</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA240709)
--->
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB'22</span>](https://ieeexplore.ieee.org/abstract/document/9079460)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'20</span>](https://ieeexplore.ieee.org/abstract/document/8671525)
+---
 
-- **异质分布样本聚类分析**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
-<!--
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ICDCS'24</span>](https://ieeexplore.ieee.org/abstract/document/10631083)
--->
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-IoTJ'26</span>](https://ieeexplore.ieee.org/abstract/document/11300877)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/11007519)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TETCI'25</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
-<!--
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
--->
-  
-</div>
-</div>
+**挫折与荣誉**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">弱/无监督联邦学习</div><img src='images/Fed-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
-  
-- **联邦聚类分析**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-DOCS'24</span>](https://ieeexplore.ieee.org/abstract/document/10704350)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-IoTJ'26</span>](https://ieeexplore.ieee.org/abstract/document/11328086)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-INS'25</span>](https://www.sciencedirect.com/science/article/abs/pii/S0020025525010941)
+> 科研是一个痛苦并快乐的过程，但大多数时候是令人沮丧的（比如论文看不懂、实验失败、研究方向被否、论文写作被批、心血之作投稿被惨拒等）。但恰恰是这种普遍的打击和失望，才能让你变得更加强大，才使获得成功的那一刻更令人铭记且深刻。由于OMG的目标是投稿SCI一区Top期刊和CCF-A类Top会议，因此需具备下列特质：**内心强大经得起挫折**，有专注力和耐力，对于科研工作充满激情，渴望成功且重视荣誉。
+> 
 
-- **异构联邦学习**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-CVPR'26</span>](xxx)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-CVPR'25</span>](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ECAI'25</span>](https://ebooks.iospress.nl/volumearticle/75876)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/10373104)
+**科研的特殊性**
 
-  
-</div>
-</div>
+> 科研与上课和上班有所不同，科研是一项有**较强机动性的事业**。例如海外过节习惯可能与国内不同，国际会议或期刊的投稿截止日期可能与国内节假日重叠。又例如提交论文前偶然发现有可以改进并提升效果的点，需要临时重写部分论文和更新实验结果。因此节假日或计划之外的时间可能需要持续战斗赶实验和投稿。同样也普遍存在工作日没有紧急科研任务，时间可自由支配的情况。这种机动的工作模式需要较强的内驱力来支撑，要能做到不受周围人和环境的影响。
+> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">非稳态数据分析</div><img src='images/NSD-Analysis.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
-  
-- **时序数据分析**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'26</span>](https://arxiv.org/abs/2511.17008)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-BIBM'25</span>](https://arxiv.org/abs/2510.12214)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ECAI'23</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA230625)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-PRICAI'25</span>](https://arxiv.org/abs/2510.15985)
+**职业理想**
 
-- **流数据/概念漂移分析**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TETCI'26</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/11007519)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
-  
-</div>
-</div>
+> 本组以解决通用科学问题的研究工作为核心，首要目标是追踪前沿科研进展，并发表高水平学术论文。所以本组学生的主要出路是发表高水平学术论文后获得继续**升学读博**的offer以及去头部科技企业做**算法研究**岗。目前本组多名本科科研生和研究生已由本人指导和推荐取得知名高校（如清华大学、北京大学、厦门大学、香港城市大学、香港浸会大学、美国罗彻斯特理工）的硕博offer和头部企业（如阿里巴巴、腾讯、华为、字节跳动等）的算法研究岗offer，得以继续深造和发展。如果目标是考公或去企业做工程向的产品开发岗，那么就与OMG的目标不大匹配了。
+> 
 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">大语言模型应用</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
-  
-- **大语言模型提示调谐**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'26</span>](https://arxiv.org/abs/2511.09049)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-SIGKDD'24</span>](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ESWA'25</span>](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003604)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'23</span>](https://ieeexplore.ieee.org/abstract/document/9887970)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TPAMI'22</span>](https://ieeexplore.ieee.org/abstract/document/9346004)
+**态度与习惯**
 
-- **大语言模型表征增强**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ICASSP'25</span>](https://ieeexplore.ieee.org/abstract/document/10889806)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ECAI'24</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA240709)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB'22</span>](https://ieeexplore.ieee.org/abstract/document/9079460)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'20</span>](https://ieeexplore.ieee.org/abstract/document/8671525)
+> 积极的态度和严谨的习惯对能否高效推进科研至关重要。古语云“法乎其上得乎中”，本组欢迎志向高远的同学加入，拿出亮剑精神，积极尝试投稿各类顶会顶刊，**不惧怕拒稿和失败**。OMG欢迎完美主义者和做事精益求精者（说人话就是：欢迎有强迫症的同学）。科研过程涉及海量细枝末节，如你能轻易察觉文档中一个不恰当的标点符号，一个多余的空格，一小处不统一的格式，一处未对齐的边框，那么你在本组的科研工作中会更加得心应手。
+> 
 
-- **大语言模型综述**<br>
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ICDCS'24</span>](https://ieeexplore.ieee.org/abstract/document/10631083)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-IoTJ'26</span>](https://ieeexplore.ieee.org/abstract/document/11300877)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/11007519)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TETCI'25</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
-  
-</div>
-</div>
--->
+**课题组工作状态**
 
-**论文列表**
+> 学生在通过入组考察被确定招收后须**立即入组学习并开展科研工作**（可线上）。科研是需长期积累才能熟练掌握的技能，只有聚焦在一个小领域不断学习深耕，才可能产出高端成果。此外，由于海内外高校接受博士申请的时间都比入学时间早一年左右，因此尽早入组开始积累成果，可更大限度确保取得理想offer和获得全额奖学金。OMG的学生人数维持在较低水平以确保**本人有充足时间亲自指导**。汇报形式：低频大组会+高频1对1按需汇报讨论。此外，顶会论文accept后，本人都会给予经费支持让学生出国参会增长见识。此外，OMG会不定期组织团建素拓（不占用周末时间，自愿参加）。
+> 
 
-- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-SIGMOD'26</span> 
-[Categorical Data Clustering via Value Order Estimated Distance Metric Learning](https://dl.acm.org/doi/abs/10.1145/3769772)<br>
-**Yiqun Zhang**, Mingjie Zhao, Hong Jia, Mengke Li, Yang Lu and Yiu-ming Cheung<sup>&#x2709;</sup>
+**学术诚信与道德**
 
-- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-CVPR'26</span> 
-SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning<br>
-Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, **Yiqun Zhang**, Shreyank Gowda and Yang Lu<sup>&#x2709;</sup>
+> Last but not least, 学术诚信是不可逾越的红线。实验可以因问题太多太难而暂时达不到理想效果，论文可以因各种客观因素而进度不佳，但决不可捏造实验结果或大语言模型生成论文。学术成果发表后跟一辈子，要**为自己发表的内容负责**。对于拟入组本科科研生，OMG**严禁同时加入多个课题组/工作室/竞赛队**，大家时间都很宝贵，要为自己的合作者和指导老师负责。对于保研生/考研生，OMG从不鸽学生，说给offer就一定给，因此也不希望被学生鸽。不卡研究生实习，但要求先完成研究生的主业——科研。未完成科研主业私自实习，一经发现将严肃处理。
+> 
 
-- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-AAAI'26</span> 
-[Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://arxiv.org/abs/2511.17008)<br>
-Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**<sup>&#x2709;</sup>
+<aside>
+💻 **OMG入组体验内容**
 
-- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-SIGKDD'24</span> 
-[QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)<br>
-Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
+</aside>
 
-- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-NeurIPS'24</span> 
-[Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc667ac84ef58f2b5022da97a465cbab-Abstract-Conference.html)<br>
-Mengke Li, Ye Liu, Yang Lu, **Yiqun Zhang**, Yiu-ming Cheung and Hui Huang<sup>&#x2709;</sup>
+---
 
-- <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TAI'25</span> 
-[Trending Applications of Large Language Models: A User Perspective Survey](https://ieeexplore.ieee.org/abstract/document/11199892)<br>
-**Yiqun Zhang**, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup>
+为了让打算入组的学生充分体验本组工作模式，让每位拟入组同学都充分确定自己的选择，特此诚邀体验本组科研日常，并和本人一对一进行汇报讨论。这种经历对提升日后面试/复试自信心以及深入了解科学研究都颇有好处。体验内容如下：
 
-- <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB'25</span> 
-[Online Heterogeneous Feature Selection](https://ieeexplore.ieee.org/abstract/document/11274409)<br>
-**Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung<sup>&#x2709;</sup>
+- **论文汇报：**在不多于一周的时间内，对**本人指定的论文或自选学术论文**进行阅读和理解，制作简洁大方的ppt，从以下几个方面进行10-15分钟的论文汇报：
 
-- <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'25</span> 
-[Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering](https://ieeexplore.ieee.org/abstract/document/11007519)<br>
-**Yiqun Zhang**, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung<sup>&#x2709;</sup>
+      （1）该论文属于什么期刊/会议，分级如何（弄清中科院SCI分区、JCR SCI分区、影响因子、CCF列表分级）；
 
-- <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ESWA'25</span> 
-[Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003604)<br>
-**Yiqun Zhang**, Mingjie Zhao, Yizhou Chen, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung
+      （2）该论文解决了什么核心问题；
 
-- <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TPAMI'22</span> 
-[Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes](https://ieeexplore.ieee.org/abstract/document/9346004)<br>
-**Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
+      （3）现有的解决方法大致分为哪几类，核心思想是什么；
 
-  ... ... 筛选展示10篇，完整论文列表请点[这里](/zh-publications/)或访问：[DBLP](https://dblp.org/pid/125/5587-6.html) &#124; [谷歌学术](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN) ... ...
+      （4）该论文所提出方法的核心技术原理和运行流程；
 
-<span class='anchor' id="honors-and-awards"></span>
+      （5）用自己的话简单概括该论文所提出方法的原理（说30秒），以及有什么先进性和创新性（说30秒）。
 
-# 🏆 荣誉与获奖
-<!-- 
-- *2026/02*: IEEE汇刊TETCI优秀编委
-- *2026/01*: 广东工业大学优秀研究生导师
--->
-- *2025/12*: 广东工业大学学报优秀编委
-- *2024/12*: ACM SIGKDD 2025 Excellent Reviewer
-- *2024/08*: 2023年度广东省科技进步二等奖
-- *2024/08*: IEEE第6届复杂系统数据驱动优化国际会议（DOCS 2024）最佳论文奖
-- *2022/09*: 教育部-华为智能基座先锋教师称号
-- *2021/06*: 广东工业大学计算机学院青年教师教学竞赛院赛一等奖（仅设一名）
-- *2019/12*: 香港浸会大学计算机科学系突出研究表现奖
-- *2019/08*: IEEE智能计算学会（香港）研究论文竞赛冠军
-- *2018/10*: Springer第24届国际智能系统方法研讨会（ISMIS 2018）最佳学生论文奖
+对于代码编写和工程实践经历暂不充分的同学，除上述汇报外，还需一并完成本组的日常代码复现工作：
 
+- **代码运行：**在不多于一周的时间内，对一篇已提供了实验代码的科研论文（**本人指定或自选论文**），参照说明文档运行代码，获得实验结果；更建议使用自己擅长的编程语言进行论文方法复现来获得实验结果（对于自行编写代码的同学可给予更长时间）。在实验结果汇报中，展示代码运行/复现过程和得到的实验结果，并对比结果和论文中结果是否一致，若不一致，则需进行原因分析与讨论。论文汇报+代码复现，最多可给予2周时间完成。
 
+上述两项体验内容总计给予约两周完成并制作ppt后与本人约时间线上汇报讨论。
 
-<span class='anchor' id="educations"></span>
-
-# 👨‍🎓 教育背景
-- *2014/09 - 2019/11*: 香港浸会大学，计算机科学系，哲学博士（导师：张晓明教授，长江学者，IEEE Fellow，AAAS Fellow，IAPR Fellow）
-- *2013/09 - 2014/11*: 香港浸会大学，计算机科学系，理学硕士
-- *2009/09 - 2013/07*: 华南理工大学，生物医学工程系，工学学士
-- *2006/09 - 2009/07*: 深圳市红岭中学，理科班
-
-<span class='anchor' id="invited-talks"></span>
-
-# 💬 特邀报告
-- *2025/12*: 山西大学，动态环境复杂分布数据聚类分析
-- *2024/12*: 东北大学/流程工业综合自动化全国重点实验室， Clustering Complex Data Under Dynamic Environment
-- *2024/12*: 广东工业大学，动态环境下的复杂数据聚类分析
-- *2023/11*: 南方科技大学，Learning from Complex Data with Cross-Coupled Heterogeneous Attributes
-- *2021/04*: 广东工业大学，以投稿和审稿人视角浅谈人工智能科研
-
-<span class='anchor' id="internships"></span>
-
-# 💻 工作经历
-- *2026/01 至今*: 广东工业大学，计算机学院，特聘教授
-- *2024/12 - 2025/12*: 香港浸会大学，计算机科学系，访问研究学者
-- *2023/12 - 2026/01*: 广东工业大学，计算机学院，副教授
-- *2022/09 - 2023/12*: 广东工业大学，计算机学院，特聘副教授
-- *2020/10 - 2022/09*: 广东工业大学，计算机学院，讲师
-- *2019/09 - 2021/02*: 香港浸会大学，计算机科学系，博士后
 <br>
 <br>
 <br>
@@ -322,10 +121,16 @@ TPAMI'22</span>
 -
 
 
-
-
-
-
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var navLinks = document.querySelectorAll(".nav-link, .masthead__menu-item a");
+    navLinks.forEach(function(link) {
+        if (link.textContent.trim() === "Homepage" || link.innerText.trim() === "Homepage") {
+            link.href = "https://yqzhang-zz.github.io/zh/";
+        }
+    });
+});
+</script>
 
 
 
