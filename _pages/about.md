@@ -26,7 +26,7 @@ OMG常年招收自律性强、态度积极、有一定编程基础的
 <span style="color: #0b5394; font-weight: bold;">【推免生】</span>、
 <span style="color: #0b5394; font-weight: bold;">【研究生】</span> 和 
 <span style="color: #0b5394; font-weight: bold;">【本科科研生】</span>入组开展科研工作。
-OMG具体研究方向可参考本人主页所列论文和科研课题。组内以前沿科学研究为主，目标是发表高水平学术论文（中科院SCI一区Top期刊论文、CCF-A类Top会议论文）。有了科研成果后，可应学生需求组织参加竞赛、申请专利、申报奖项等创新创业活动。
+OMG具体研究方向可参考本人主页所列论文和科研课题。组内<span style="color: #0b5394; font-weight: bold;">以前沿科学研究为主</span>，目标是发表高水平学术论文（中科院SCI一区Top期刊论文、CCF-A类Top会议论文）。有了科研成果后，可应学生需求组织参加竞赛、申请专利、申报奖项等创新创业活动。
 
 <span style="color: #0b5394">※ 有意入组的同学请仔细阅读OMG【**价值观与目标**】和【**入组考核要求**】后邮件联系本人（yqzhang@gdut.edu.cn）。发邮件需声明理解招生要求，附上个人简历，否则不予回复。</span>
 
