@@ -20,19 +20,16 @@ redirect_from:
 
 # ℹ️ 关于OMG
 
-本人的<span style="color: #0b5394; font-weight: bold;">开放环境机器学习课题组（Open-environment Machine learning Group, 简称 OMG）</span>的科研兴趣活动最早可追溯至2021年9月。5年间先后指导多位<span style="color: #0b5394; font-weight: bold;">学生获得清华和海外名校的全奖直博和保研offer</span>；指导研究生和本科科研生在国际顶级期刊和CCF-A类会议如TPAMI，TCYB，TNNLS，SIGKDD，SIGMOD，NeurIPS，CVPR，ICCV，AAAI，IJCAI，ACM MM等发表论文数十篇；在高水平<span style="color: #0b5394; font-weight: bold;">国家级竞赛</span>如挑战杯国赛（自然科学类学术论文主赛道）、全国大学生计算机设计大赛等<span style="color: #0b5394; font-weight: bold;">屡获殊荣</span>。
+本人的**开放环境机器学习课题组（Open-environment Machine learning Group, 简称 OMG）** 的科研兴趣活动最早可追溯至2021年9月。5年间先后指导多位**学生保研清华和获得海外名校全奖博士offer**；指导研究生和本科科研生在**国际顶级期刊和CCF-A类会议发表论文数十篇**（如TPAMI，TCYB，TNNLS，SIGKDD，SIGMOD，NeurIPS，CVPR，ICCV，AAAI，IJCAI，ACM MM等）；在高水平**国家级竞赛**（如挑战杯国赛、全国大学生计算机设计大赛等）**多次获奖**。
 
-OMG常年招收自律性强、态度积极、有一定编程基础的
-<span style="color: #0b5394; font-weight: bold;">【推免生】</span>、
-<span style="color: #0b5394; font-weight: bold;">【研究生】</span> 和 
-<span style="color: #0b5394; font-weight: bold;">【本科科研生】</span>入组开展科研工作。
-OMG具体研究方向可参考本人主页所列论文和科研课题。组内<span style="color: #0b5394; font-weight: bold;">以前沿科学研究为主</span>，目标是发表高水平学术论文（中科院SCI一区Top期刊论文、CCF-A类Top会议论文）。有了科研成果后，可应学生需求组织参加竞赛、申请专利、申报奖项等创新创业活动。
+OMG常年招收自律性强、态度积极、有一定编程基础的【**推免生**】、【**研究生**】和【**本科科研生**】入组开展科研工作。
+OMG具体研究方向可参考本人主页所列论文和科研课题。组内**以前沿科学研究为主**，目标是发表高水平学术论文（中科院SCI一区Top期刊论文、CCF-A类Top会议论文）。有了科研成果后，可应学生需求组织参加竞赛、申请专利、申报奖项等创新创业活动。
 
-<span style="color: #0b5394">※ 有意入组的同学请仔细阅读OMG【**价值观与目标**】和【**入组考核要求**】后邮件联系本人（yqzhang@gdut.edu.cn）。发邮件需声明理解招生要求，附上个人简历，否则不予回复。</span>
+📢<span style="color: #0b5394"> 有意入组的同学请仔细阅读OMG【**价值观与目标**】和【**入组考核要求**】后邮件联系本人（yqzhang@gdut.edu.cn）。发邮件需声明理解招生要求，附上个人简历，否则不予回复。</span>
 
-<span style="color: #0b5394">※ 精力有限，资源有限，OMG不想耽误大家，因此只能做到集中精力托举少量同学。每年仅择优招【**研究生2-3人**】和【**本科科研生2-3人**】。本科生全年滚动招生，入组名额先到先得。</span>
+📢<span style="color: #0b5394"> 精力有限，资源有限，OMG不想耽误学生，因此只能做到集中精力托举少量同学。每年仅择优招【**研究生2-3人**】和【**本科科研生2-3人**】。本科生全年滚动招生，入组名额先到先得。</span>
 
-<span style="color: #0b5394">※ 学生培养无法速成，本人会手把手教。因此本科生最晚请于大二下学期开学前后提出入组申请（特别优秀者可适度放宽）。研究生获得OMG发出的书面offer后也需尽快入参加科研训练（可线上）。</span>
+📢<span style="color: #0b5394"> 学生培养无法速成，本人会手把手教。因此本科生最晚请于大二下学期开学前后提出入组申请（特别优秀者可适度放宽）。研究生获得OMG发出的书面offer后也需尽快入参加科研训练（可线上）。</span>
 
 <span class='anchor' id='values-and-goals'></span>
 <br>
