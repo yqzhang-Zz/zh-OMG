@@ -110,7 +110,7 @@ contents preparing
 
 <span class='anchor' id='OMG-album'></span>
 <br>
-# 📷 影像
+# 🖼️ 影像
 
 Coming Soon
 
