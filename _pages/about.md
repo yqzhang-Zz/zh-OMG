@@ -97,19 +97,25 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内<s
 <span style="color: #0b5394">※ 上述两项体验内容总计给予约两周完成并制作ppt后与本人约时间线上汇报讨论。汇报前务必先自行演练，确保逻辑清晰、语言精炼、汇报用时务必控制在15分钟以内。</span>
 
 
-<!--
 
 <span class='anchor' id='OMG-members'></span>
 <br>
 # 🧑‍🎓 成员
 
+Coming Soon
 
+<!--
+contents preparing
+-->
 
 <span class='anchor' id='OMG-album'></span>
 <br>
 # 📷 影像
 
+Coming Soon
 
+<!--
+contents preparing
 -->
 
 <br>
