@@ -331,7 +331,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 <br>
 # 🖼️ 影像
 
-Coming Soon
+Coming Soon ...
 
 <!--
 contents preparing
