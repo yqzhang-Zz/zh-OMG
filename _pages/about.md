@@ -182,16 +182,14 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 }
 </style>
 
-### 👨‍💻 在读学生
-
 <div class="student-grid">
   
   <div class="student-card">
     <div class="student-header">
       <div class="student-avatar">💻</div>
       <div class="student-info">
-        <h4>陈欣禧 (Xinxi Chen)</h4>
-        <p>202x级 本科科研生</p>
+        <h4>陈欣禧<br>(Xinxi Chen)</h4>
+        <p>2022级 本科科研生</p>
       </div>
     </div>
     <div class="student-body">
@@ -205,8 +203,8 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-header">
       <div class="student-avatar">💻</div>
       <div class="student-info">
-        <h4>谭泽熙 (Zexi Tan)</h4>
-        <p>202x级 本科科研生</p>
+        <h4>谭泽熙<br>(Zexi Tan)</h4>
+        <p>2023级 本科科研生</p>
       </div>
     </div>
     <div class="student-body">
@@ -220,8 +218,8 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-header">
       <div class="student-avatar">💻</div>
       <div class="student-info">
-        <h4>谢涛 (Tao Xie)</h4>
-        <p>202x级 本科科研生</p>
+        <h4>谢涛<br>(Tao Xie)</h4>
+        <p>2023级 本科科研生</p>
       </div>
     </div>
     <div class="student-body">
@@ -234,7 +232,8 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 </div>
 
 
-### 🎓 已毕业学生
+
+
 
 <div class="student-grid">
   
@@ -242,12 +241,12 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-header">
       <div class="student-avatar">🌟</div>
       <div class="student-info">
-        <h4>赵明杰 (Mingjie Zhao)</h4>
+        <h4>赵明杰<br>(Mingjie Zhao)</h4>
         <p>202x届 毕业生</p>
       </div>
     </div>
     <div class="student-body">
-      <span class="tag tag-alumni">校友</span>
+      <span class="tag tag-alumni">已毕业</span>
       <p><strong>毕业去向：</strong> 现就读于 香港浸会大学（全奖博士）</p>
       <p><strong>研究方向：</strong> 异构特征数据分析和大语言模型</p>
       <p><strong>主要成果：</strong> 获国家奖学金，发表多篇高水平会议论文。</p>
@@ -258,12 +257,12 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-header">
       <div class="student-avatar">🌟</div>
       <div class="student-info">
-        <h4>陈俊仰 (Junyang Chen)</h4>
+        <h4>陈俊仰<br>(Junyang Chen)</h4>
         <p>202x届 毕业生</p>
       </div>
     </div>
     <div class="student-body">
-      <span class="tag tag-alumni">校友</span>
+      <span class="tag tag-alumni">已毕业</span>
       <p><strong>毕业去向：</strong> 现就读于 清华大学</p>
       <p><strong>研究方向：</strong> 图表征学习和大语言模型</p>
       <p><strong>主要成果：</strong> 挑战杯国赛获奖。</p>
@@ -274,12 +273,12 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-header">
       <div class="student-avatar">🌟</div>
       <div class="student-info">
-        <h4>张云帆 (Yunfan Zhang)</h4>
+        <h4>张云帆<br>(Yunfan Zhang)</h4>
         <p>202x届 毕业生</p>
       </div>
     </div>
     <div class="student-body">
-      <span class="tag tag-alumni">校友</span>
+      <span class="tag tag-alumni">已毕业</span>
       <p><strong>毕业去向：</strong> 现就读于 香港浸会大学（全奖直博）</p>
       <p><strong>研究方向：</strong> 无监督联邦学习和大语言模型</p>
       <p><strong>主要成果：</strong> 挑战杯国赛获奖。</p>
