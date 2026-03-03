@@ -258,14 +258,6 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       <p><strong>主要成果：</strong> 在CCF-A/B以及SCI一区期刊发表论文多篇，如AAAI'26，TETCI'25，ICASSP'25等；获数模大赛国赛三等奖。</p>
     </div>
   </div>
-
-</div>
-
-
-
-
-
-<div class="student-grid">
   
   <div class="student-card">
     <div class="student-header">
@@ -277,7 +269,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     </div>
     <div class="student-body">
       <span class="tag tag-alumni">已毕业</span>
-      <p><strong>毕业去向：</strong> 现就读于 香港浸会大学（全奖博士）</p>
+      <p><strong>毕业去向：</strong> 香港浸会大学（全奖博士）</p>
       <p><strong>研究方向：</strong> 异构特征数据分析和大语言模型</p>
       <p><strong>主要成果：</strong> 获研究生国家奖学金，发表多篇高水平会议和期刊论文，如SIGMOD'26，AAAI'26，TETCI'25，ECAI'25。</p>
     </div>
@@ -293,9 +285,9 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     </div>
     <div class="student-body">
       <span class="tag tag-alumni">已毕业</span>
-      <p><strong>毕业去向：</strong> 现就读于 清华大学</p>
+      <p><strong>毕业去向：</strong> 清华大学（硕士研究生在读）</p>
       <p><strong>研究方向：</strong> 图表征学习和大语言模型</p>
-      <p><strong>主要成果：</strong> 挑战杯国赛获奖。</p>
+      <p><strong>主要成果：</strong> 发表CCF-A/B类和SCI一区Top期刊论文，如DASFAA'26，SIGKDD'24，JBHI'23；获挑战杯省赛特等奖。</p>
     </div>
   </div>
 
@@ -309,12 +301,27 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     </div>
     <div class="student-body">
       <span class="tag tag-alumni">已毕业</span>
-      <p><strong>毕业去向：</strong> 现就读于 香港浸会大学（全奖直博）</p>
+      <p><strong>毕业去向：</strong> 香港浸会大学（全奖直博）</p>
       <p><strong>研究方向：</strong> 无监督联邦学习和大语言模型</p>
-      <p><strong>主要成果：</strong> 挑战杯国赛获奖。</p>
+      <p><strong>主要成果：</strong> 发表CCF-A类和SCI一/二区期刊论文多篇，如AAAI'25，NEUCOM'25；成果获国际会议最佳论文奖和挑战杯国赛三等奖。</p>
     </div>
   </div>
 
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">🌟</div>
+      <div class="student-info">
+        <h4>蔡升宏<br>(Shenghong Cai)</h4>
+        <p>2025届 本科毕业生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag tag-alumni">已毕业</span>
+      <p><strong>毕业去向：</strong> 北师港浸大（研究助理）</p>
+      <p><strong>研究方向：</strong> 分布式聚类分析与无监督联邦学习</p>
+      <p><strong>主要成果：</strong> 发表SCI一区Top期刊和CCF-B类会议论文多篇；成果获挑战杯省赛特等奖；主持国家级大创项目。</p>
+    </div>
+  </div>
 
 </div>
 
