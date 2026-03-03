@@ -186,7 +186,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
   
   <div class="student-card">
     <div class="student-header">
-      <div class="student-avatar">💻</div>
+      <div class="student-avatar">👩🏻‍🎓</div>
       <div class="student-info">
         <h4>陈欣禧<br>(Xinxi Chen)</h4>
         <p>2022级 本科科研生</p>
@@ -261,7 +261,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
   
   <div class="student-card">
     <div class="student-header">
-      <div class="student-avatar">🌟</div>
+      <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
         <h4>赵明杰<br>(Mingjie Zhao)</h4>
         <p>2025届 硕士毕业生</p>
@@ -277,7 +277,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 
   <div class="student-card">
     <div class="student-header">
-      <div class="student-avatar">🌟</div>
+      <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
         <h4>陈俊仰<br>(Junyang Chen)</h4>
         <p>2025届 本科毕业生</p>
@@ -293,7 +293,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 
   <div class="student-card">
     <div class="student-header">
-      <div class="student-avatar">🌟</div>
+      <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
         <h4>张云帆<br>(Yunfan Zhang)</h4>
         <p>2025届 本科毕业生</p>
@@ -309,7 +309,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 
   <div class="student-card">
     <div class="student-header">
-      <div class="student-avatar">🌟</div>
+      <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
         <h4>蔡升宏<br>(Shenghong Cai)</h4>
         <p>2025届 本科毕业生</p>
