@@ -271,7 +271,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       <span class="tag tag-alumni">已毕业</span>
       <p><strong>毕业去向：</strong> 香港浸会大学（全奖博士）</p>
       <p><strong>研究方向：</strong> 异构特征数据分析和大语言模型</p>
-      <p><strong>主要成果：</strong> 曾获研究生国家奖学金；发CCF-A/B类会议和SCI一区期刊等多篇论文，如SIGMOD'26，AAAI'26，TETCI'25，ECAI'25。</p>
+      <p><strong>主要成果：</strong> 曾获研究生国家奖学金；发表CCF-A/B类会议和SCI一区期刊等多篇论文，如SIGMOD'26，AAAI'26，TETCI'25，ECAI'25。</p>
     </div>
   </div>
 
