@@ -325,7 +325,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 
 </div>
 
-<span style="color: #0b5394"> ※ 因主页空间有限，遂滚动陈列OMG课题组部分成员简介。无论是否在此展示，都为每一位曾在OMG奋斗过的同学感到骄傲。</span>
+<span style="color: #0b5394"> ※ 因主页空间有限，遂滚动陈列OMG课题组部分成员简介。无论是否正在此展示，都为每一位曾在OMG奋斗过的同学感到骄傲。</span>
 
 <span class='anchor' id='OMG-album'></span>
 <br>
