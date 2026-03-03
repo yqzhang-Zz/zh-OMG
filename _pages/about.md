@@ -233,7 +233,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
-        <h4>冯森<br>(Tao Xie)</h4>
+        <h4>冯森<br>(Sen Feng)</h4>
         <p>2023级 研究生</p>
       </div>
     </div>
@@ -248,7 +248,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
-        <h4>黄展培<br>(Tao Xie)</h4>
+        <h4>黄展培<br>(Zhanpei Huang)</h4>
         <p>2024级 研究生</p>
       </div>
     </div>
