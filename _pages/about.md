@@ -262,7 +262,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigmta">SIGMTA</span>
       <p><strong>研究方向：</strong> 时序数据表征学习与分类预测</p>
-      <p><strong>主要成果：</strong> 发表多篇CCF-B/C类全英会议论文，如BIBM'25，PRICAI'25；获中国大学生计算机设计大赛国赛一等奖。</p>
+      <p><strong>主要成果：</strong> 发表多篇全英学术论文，包括BIBM'25(CCF-B类会议)，PRICAI'25(CCF-C类会议)；时序分类科研成果荣获中国大学生计算机设计大赛国赛一等奖。</p>
     </div>
   </div>
 
@@ -277,7 +277,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span>
       <p><strong>研究方向：</strong> 无监督表征学习</p>
-      <p><strong>主要成果：</strong> 获研究生国家奖学金，发表TNNLS'25，ICASSP'25，ECAI'24等多篇SCI一区Top期刊和CCF-B类国际会议论文。</p>
+      <p><strong>主要成果：</strong> 获研究生国家奖学金；发表TNNLS'25(ESI高被引论文)，ICASSP'25，ECAI'24等多篇SCI一区Top期刊和CCF-B类国际会议论文。</p>
     </div>
   </div>
 
