@@ -194,8 +194,8 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     </div>
     <div class="student-body">
       <span class="tag">在读</span>
-      <p><strong>研究方向：</strong> 开放环境机器学习与医学数据分析</p>
-      <p><strong>主要成果：</strong> 获国家奖学金，参与多项核心算法复现与科研项目。</p>
+      <p><strong>研究方向：</strong> 异构特征数据表征学习</p>
+      <p><strong>主要成果：</strong> TCYB'25 | 计设大赛国赛一等奖 | 国家级大创 | 挑战杯省赛特等奖</p>
     </div>
   </div>
 
@@ -209,8 +209,9 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     </div>
     <div class="student-body">
       <span class="tag">在读</span>
-      <p><strong>研究方向：</strong> 大语言模型应用与评估</p>
-      <p><strong>主要成果：</strong> 获国家奖学金，全国大学生计算机设计大赛获奖。</p>
+      <p><strong>研究方向：</strong> 时序数据表征学习与聚类分析</p>
+      <p><strong>主要成果：</strong> 学生一作发表多篇CCF-A/B类会议论文和SCI一区Top期刊论文，获国/省级竞赛奖项和主持国/省级科创项目若干：
+        AAAI'26 | TNNLS'25 | IoTJ'25 | BIBM'25 | 国家奖学金 | 计设大赛国赛一等奖 | 国家级大创 | 挑战杯省赛特等奖 | 省科创项目</p>
     </div>
   </div>
 
@@ -224,8 +225,8 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     </div>
     <div class="student-body">
       <span class="tag">在读</span>
-      <p><strong>研究方向：</strong> 待补充...</p>
-      <p><strong>主要成果：</strong> 获国家奖学金。</p>
+      <p><strong>研究方向：</strong> 时序数据表征学习与分类预测</p>
+      <p><strong>主要成果：</strong> 获国家奖学金 </p>
     </div>
   </div>
 
