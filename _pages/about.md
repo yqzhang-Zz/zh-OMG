@@ -249,7 +249,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-body">
       <span class="tag tag-alumni">校友</span>
       <p><strong>毕业去向：</strong> 现就读于 香港浸会大学（全奖博士）</p>
-      <p><strong>研究方向：</strong> 机器学习与数据科学</p>
+      <p><strong>研究方向：</strong> 异构特征数据分析和大语言模型</p>
       <p><strong>主要成果：</strong> 获国家奖学金，发表多篇高水平会议论文。</p>
     </div>
   </div>
@@ -265,7 +265,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-body">
       <span class="tag tag-alumni">校友</span>
       <p><strong>毕业去向：</strong> 现就读于 清华大学</p>
-      <p><strong>研究方向：</strong> 计算机视觉</p>
+      <p><strong>研究方向：</strong> 图表征学习和大语言模型</p>
       <p><strong>主要成果：</strong> 挑战杯国赛获奖。</p>
     </div>
   </div>
@@ -280,8 +280,8 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     </div>
     <div class="student-body">
       <span class="tag tag-alumni">校友</span>
-      <p><strong>毕业去向：</strong> 现就读于 香港浸会大学</p>
-      <p><strong>研究方向：</strong> 计算机视觉</p>
+      <p><strong>毕业去向：</strong> 现就读于 香港浸会大学（全奖直博）</p>
+      <p><strong>研究方向：</strong> 无监督联邦学习和大语言模型</p>
       <p><strong>主要成果：</strong> 挑战杯国赛获奖。</p>
     </div>
   </div>
