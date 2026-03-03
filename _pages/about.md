@@ -226,7 +226,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-body">
       <span class="tag">在读</span>
       <p><strong>研究方向：</strong> 时序数据表征学习与分类预测</p>
-      <p><strong>主要成果：</strong> 获国家奖学金 </p>
+      <p><strong>主要成果：</strong> 学生一作发表多篇CCF-B/C类会议论文，获国家级竞赛奖项：BIBM'25 | PRICAI'26 | 计设大赛国赛一等奖 </p>
     </div>
   </div>
 
