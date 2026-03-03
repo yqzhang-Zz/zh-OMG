@@ -193,7 +193,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       </div>
     </div>
     <div class="student-body">
-      <span class="tag">在读</span>
+      <span class="tag">在读</span><span class="tag">SIGCDC小组成员</span>
       <p><strong>研究方向：</strong> 异构特征数据表征学习</p>
       <p><strong>主要成果：</strong> 发表含SCI一区Top期刊在内的多篇全英论文，如TCYB'25，ICIC'25；获国家级竞赛奖项和本科生科创项目若干，如计设大赛国赛一等奖，国家级大创项目等。</p>
     </div>
