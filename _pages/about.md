@@ -195,7 +195,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-body">
       <span class="tag">在读</span>
       <p><strong>研究方向：</strong> 异构特征数据表征学习</p>
-      <p><strong>主要成果：</strong> TCYB'25 | 计设大赛国赛一等奖 | 国家级大创 | 挑战杯省赛特等奖</p>
+      <p><strong>主要成果：</strong> 发表含SCI一区Top期刊在内的多篇全英论文，如TCYB'25，ICIC'25；获国家级竞赛奖项和本科生科创项目若干，如计设大赛国赛一等奖，国家级大创项目等。</p>
     </div>
   </div>
 
@@ -210,8 +210,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-body">
       <span class="tag">在读</span>
       <p><strong>研究方向：</strong> 时序数据表征学习与聚类分析</p>
-      <p><strong>主要成果：</strong> 学生一作发表多篇CCF-A/B类会议论文和SCI一区Top期刊论文，获国/省级竞赛奖项和主持国/省级科创项目若干：
-        AAAI'26 | TNNLS'25 | IoTJ'25 | BIBM'25 | 国家奖学金 | 计设大赛国赛一等奖 | 国家级大创 | 挑战杯省赛特等奖 | 省科创项目</p>
+      <p><strong>主要成果：</strong> 发表多篇CCF-A/B类会议论文和SCI一区Top期刊论文，如AAAI'26，TNNLS'25，IoTJ'25；获国家级奖学金和竞赛奖项若干，如本科生国家奖学金，计设大赛国赛一等奖等。</p>
     </div>
   </div>
 
@@ -226,7 +225,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-body">
       <span class="tag">在读</span>
       <p><strong>研究方向：</strong> 时序数据表征学习与分类预测</p>
-      <p><strong>主要成果：</strong> 学生一作发表多篇CCF-B/C类会议论文，获国家级竞赛奖项：BIBM'25 | PRICAI'26 | 计设大赛国赛一等奖 </p>
+      <p><strong>主要成果：</strong> 发表多篇CCF-B/C类全英会议论文，如BIBM'25，PRICAI'25；获中国大学生计算机设计大赛国赛一等奖。</p>
     </div>
   </div>
 
