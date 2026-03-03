@@ -210,7 +210,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     <div class="student-body">
       <span class="tag">在读</span>
       <p><strong>研究方向：</strong> 时序数据表征学习与聚类分析</p>
-      <p><strong>主要成果：</strong> 发表多篇CCF-A/B类会议论文和SCI一区Top期刊论文，如AAAI'26，TNNLS'25，IoTJ'25；获国家级奖学金和竞赛奖项若干，如本科生国家奖学金，计设大赛国赛一等奖等。</p>
+      <p><strong>主要成果：</strong> 发表多篇CCF-A/B类会议和SCI一区Top期刊论文，如AAAI'26，TNNLS'25；获国家级奖学金和竞赛奖项若干，如本科生国家奖学金，计设大赛国赛一等奖等。</p>
     </div>
   </div>
 
@@ -242,14 +242,14 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       <div class="student-avatar">🌟</div>
       <div class="student-info">
         <h4>赵明杰<br>(Mingjie Zhao)</h4>
-        <p>202x届 毕业生</p>
+        <p>2025届 硕士毕业生</p>
       </div>
     </div>
     <div class="student-body">
       <span class="tag tag-alumni">已毕业</span>
       <p><strong>毕业去向：</strong> 现就读于 香港浸会大学（全奖博士）</p>
       <p><strong>研究方向：</strong> 异构特征数据分析和大语言模型</p>
-      <p><strong>主要成果：</strong> 获国家奖学金，发表多篇高水平会议论文。</p>
+      <p><strong>主要成果：</strong> 获研究生国家奖学金，发表多篇高水平会议和期刊论文，如SIGMOD'26，AAAI'26，TETCI'25，ECAI'25。</p>
     </div>
   </div>
 
@@ -258,7 +258,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       <div class="student-avatar">🌟</div>
       <div class="student-info">
         <h4>陈俊仰<br>(Junyang Chen)</h4>
-        <p>202x届 毕业生</p>
+        <p>2025届 本科毕业生</p>
       </div>
     </div>
     <div class="student-body">
@@ -274,7 +274,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       <div class="student-avatar">🌟</div>
       <div class="student-info">
         <h4>张云帆<br>(Yunfan Zhang)</h4>
-        <p>202x届 毕业生</p>
+        <p>2025届 本科毕业生</p>
       </div>
     </div>
     <div class="student-body">
