@@ -229,6 +229,21 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
     </div>
   </div>
 
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">💻</div>
+      <div class="student-info">
+        <h4>冯森<br>(Tao Xie)</h4>
+        <p>2023级 研究生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag">在读</span>
+      <p><strong>研究方向：</strong> 无监督表征学习</p>
+      <p><strong>主要成果：</strong> 获研究生国家奖学金，在包括TNNLS'25，ICASSP'25，ECAI'24等在内的SCI一区Top期刊和CCF-B类国际会议发表多篇全英论文。</p>
+    </div>
+  </div>
+
 </div>
 
 
