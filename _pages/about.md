@@ -18,7 +18,11 @@ redirect_from:
 <span class='anchor' id='about-OMG'></span>
 <br>
 
-# ℹ️ 关于OMG
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">ℹ️ 关于OMG</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 160px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
 
 本人的**开放环境机器学习课题组（Open-environment Machine learning Group, 简称 OMG）** 的科研兴趣活动最早可追溯至2021年9月。5年间先后指导多位**学生保研清华和获得海外名校全奖博士offer**；指导研究生和本科科研生在**国际顶级期刊和CCF-A类会议发表论文数十篇**（如TPAMI，TCYB，TNNLS，SIGKDD，SIGMOD，NeurIPS，CVPR，ICCV，AAAI，IJCAI，ACM MM等）；在高水平**国家级竞赛**（如挑战杯国赛、全国大学生计算机设计大赛等）**多次获奖**。
 
@@ -33,7 +37,12 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 
 <span class='anchor' id='values-and-goals'></span>
 <br>
-# 🎯 价值观与目标
+
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">🎯 价值观与目标</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 160px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
 
 **挫折与荣誉**🏅
 
