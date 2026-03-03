@@ -321,7 +321,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       </div>
     </div>
     <div class="student-body">
-      <span class="tag tag-alumni">已毕业</span>
+      <span class="tag tag-alumni">已毕业</span> <span class="tag-sigcdc">SIGCDC</span>
       <p><strong>毕业去向：</strong> 清华大学（硕士研究生在读）</p>
       <p><strong>研究方向：</strong> 图表征学习和大语言模型</p>
       <p><strong>主要成果：</strong> 发表CCF-A/B类和SCI一区Top期刊论文多篇，如DASFAA'26，SIGKDD'24；成果荣获挑战杯省赛特等奖。</p>
