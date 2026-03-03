@@ -180,6 +180,35 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
   background-color: #f6ffed;
   color: #389e0d;
 }
+/* 1. 优雅紫：SIG-LLM (大语言模型，代表前沿探索与深度) */
+.tag-sigllm {
+  background-color: #f9f0ff;
+  color: #531dab;
+}
+
+/* 2. 活力橙：SIG-CDC (代表活跃、数据应用或工程实践) */
+.tag-sigcdc {
+  background-color: #fff7e6;
+  color: #d46b08;
+}
+
+/* 3. 玫瑰粉：SIG-MTA (医学与数据分析，色彩温暖且契合医疗健康主题) */
+.tag-sigmta {
+  background-color: #fff0f6;
+  color: #c41d7f;
+}
+
+/* 4. 极简青：备用色 1 (冷静、技术感强，适合偏底层的研究方向) */
+.tag-spare1 {
+  background-color: #e6fffb;
+  color: #08979c;
+}
+
+/* 5. 温暖金：备用色 2 (明亮、百搭，适合综合性或交叉学科小组) */
+.tag-spare2 {
+  background-color: #fffbe6;
+  color: #d48806;
+}
 </style>
 
 <div class="student-grid">
@@ -193,7 +222,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       </div>
     </div>
     <div class="student-body">
-      <span class="tag">在读</span><span class="tag">SIGCDC小组成员</span>
+      <span class="tag">在读</span><span class="tag-sigcdc">SIGCDC</span>
       <p><strong>研究方向：</strong> 异构特征数据表征学习</p>
       <p><strong>主要成果：</strong> 发表含SCI一区Top期刊在内的多篇全英论文，如TCYB'25，ICIC'25；获国家级竞赛奖项和本科生科创项目若干，如计设大赛国赛一等奖，国家级大创项目等。</p>
     </div>
@@ -208,7 +237,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       </div>
     </div>
     <div class="student-body">
-      <span class="tag">在读</span>
+      <span class="tag">在读</span><span class="tag-sigmta">SIGMTA</span><span class="tag-sigllm">SIGLLM</span>
       <p><strong>研究方向：</strong> 时序数据表征学习与聚类分析</p>
       <p><strong>主要成果：</strong> 发表多篇CCF-A/B类会议和SCI一区Top期刊论文，如AAAI'26，TNNLS'25；获国家级奖学金和竞赛奖项若干，如本科生国家奖学金，计设大赛国赛一等奖等。</p>
     </div>
@@ -223,7 +252,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       </div>
     </div>
     <div class="student-body">
-      <span class="tag">在读</span>
+      <span class="tag">在读</span><span class="tag-sigmta">SIGMTA</span>
       <p><strong>研究方向：</strong> 时序数据表征学习与分类预测</p>
       <p><strong>主要成果：</strong> 发表多篇CCF-B/C类全英会议论文，如BIBM'25，PRICAI'25；获中国大学生计算机设计大赛国赛一等奖。</p>
     </div>
