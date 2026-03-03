@@ -167,14 +167,22 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
   margin-bottom: 6px;
 }
 .tag {
-  display: inline-block;
-  background-color: #e6f7ff;
+  display: inline-flex;      /* 改为 flex 布局，专治各种对齐疑难杂症 */
+  align-items: center;       /* 确保里面的文字绝对垂直居中 */
+  justify-content: center;   /* 水平居中 */
+  height: 24px;              /* 强制锁死高度，无论中英文都是一样高 */
+  line-height: 1;            /* 消除字体自带的行高干扰 */
+  padding: 0 8px;            /* 取消上下内边距，只保留左右留白 */
+  
+  background-color: #e6f7ff; 
   color: #0b5394;
-  padding: 3px 8px;
   border-radius: 4px;
   font-size: 0.75em;
-  margin-bottom: 12px;
   font-weight: 600;
+  margin-bottom: 12px;
+  margin-right: 6px;         /* 加上右边距，防止多个标签贴在一起 */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; /* 统一下字体，避免不同系统下中英文字体不一导致视觉差异 */
+  vertical-align: middle;
 }
 .tag-alumni {
   background-color: #f6ffed;
