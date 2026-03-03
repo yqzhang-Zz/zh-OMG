@@ -100,6 +100,8 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 <br>
 # 🧑‍🎓 成员
 
+OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，目前包括<span class="tag tag-sigcdc">SIGCDC</span> (CDC: Complex-distributed Data Clustering)，SIGMTA (MTA: Multi-variate Time-series Analysis)，SIGLLM (LLM: Large Language Models)，并不断调整以追踪和适配前沿学术研究风向。
+
 <style>
 /* 极简明亮的卡片网格布局 */
 .student-grid {
