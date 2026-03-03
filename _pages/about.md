@@ -100,11 +100,178 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 <br>
 # 🧑‍🎓 成员
 
-Coming Soon
+<style>
+/* 极简明亮的卡片网格布局 */
+.student-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+@media (max-width: 768px) {
+  .student-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.student-card {
+  background-color: #ffffff;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+.student-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+}
+.student-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  border-bottom: 1px solid #f4f4f4;
+  padding-bottom: 12px;
+}
+.student-avatar {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background-color: #f0f4f8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  margin-right: 12px;
+  color: #0b5394;
+}
+.student-info h4 {
+  margin: 0;
+  font-size: 1.1em;
+  color: #333;
+}
+.student-info p {
+  margin: 4px 0 0 0;
+  font-size: 0.85em;
+  color: #777;
+}
+.student-body {
+  flex-grow: 1;
+  font-size: 0.9em;
+  color: #444;
+  line-height: 1.6;
+}
+.student-body p {
+  margin-bottom: 6px;
+}
+.tag {
+  display: inline-block;
+  background-color: #e6f7ff;
+  color: #0b5394;
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-size: 0.75em;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+.tag-alumni {
+  background-color: #f6ffed;
+  color: #389e0d;
+}
+</style>
 
-<!--
-contents preparing
--->
+### 👨‍💻 在读学生
+
+<div class="student-grid">
+  
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">💻</div>
+      <div class="student-info">
+        <h4>谭泽希 (Zexi Tan)</h4>
+        <p>202x级 硕士研究生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag">在读</span>
+      <p><strong>研究方向：</strong> 开放环境机器学习与医学数据分析</p>
+      <p><strong>主要成果：</strong> 获国家奖学金，参与多项核心算法复现与科研项目。</p>
+    </div>
+  </div>
+
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">💻</div>
+      <div class="student-info">
+        <h4>赵明杰 (Mingjie Zhao)</h4>
+        <p>202x级 本科科研生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag">在读</span>
+      <p><strong>研究方向：</strong> 大语言模型应用与评估</p>
+      <p><strong>主要成果：</strong> 获国家奖学金，全国大学生计算机设计大赛获奖。</p>
+    </div>
+  </div>
+
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">💻</div>
+      <div class="student-info">
+        <h4>张云帆 (Yunfan Zhang)</h4>
+        <p>202x级 研究生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag">在读</span>
+      <p><strong>研究方向：</strong> 待补充...</p>
+      <p><strong>主要成果：</strong> 获国家奖学金。</p>
+    </div>
+  </div>
+
+</div>
+
+
+### 🎓 已毕业学生
+
+<div class="student-grid">
+  
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">🌟</div>
+      <div class="student-info">
+        <h4>冯森 (Sen Feng)</h4>
+        <p>202x届 毕业生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag tag-alumni">校友</span>
+      <p><strong>毕业去向：</strong> 现就读于 清华大学</p>
+      <p><strong>研究方向：</strong> 机器学习与数据科学</p>
+      <p><strong>主要成果：</strong> 获国家奖学金，发表多篇高水平会议论文。</p>
+    </div>
+  </div>
+
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">🌟</div>
+      <div class="student-info">
+        <h4>某某某 (Name)</h4>
+        <p>202x届 毕业生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag tag-alumni">校友</span>
+      <p><strong>毕业去向：</strong> 现就读于 香港浸会大学 (全奖博士)</p>
+      <p><strong>研究方向：</strong> 计算机视觉</p>
+      <p><strong>主要成果：</strong> 挑战杯国赛获奖。</p>
+    </div>
+  </div>
+
+</div>
+
 
 <span class='anchor' id='OMG-album'></span>
 <br>
