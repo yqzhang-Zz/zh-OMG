@@ -319,7 +319,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
       <span class="tag tag-alumni">已毕业</span>
       <p><strong>毕业去向：</strong> 北师港浸大（研究助理）</p>
       <p><strong>研究方向：</strong> 分布式聚类分析与无监督联邦学习</p>
-      <p><strong>主要成果：</strong> 发表SCI一区Top期刊和CCF-B类会议论文多篇；成果获挑战杯省赛特等奖；主持国家级大创项目。</p>
+      <p><strong>主要成果：</strong> 发表SCI一区Top期刊和CCF-B类会议论文多篇，如ICDCS'24，IoTJ'26；成果获挑战杯省赛特等奖；主持国家级大创项目。</p>
     </div>
   </div>
 
