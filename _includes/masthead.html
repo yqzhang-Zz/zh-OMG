@@ -19,3 +19,17 @@
     </div>
   </div>
 </div>
+
+<script>
+  // 强制修正“中文主页”按钮的跳转逻辑
+  document.addEventListener("DOMContentLoaded", function() {
+    var homeLink = document.querySelector(".masthead__menu-home-item a");
+    if (homeLink) {
+      homeLink.onclick = function(e) {
+        // 阻止模板自带的平滑滚动脚本运行
+        e.stopPropagation();
+        window.location.href = "https://yqzhang-zz.github.io/zh/";
+      };
+    }
+  });
+</script>
