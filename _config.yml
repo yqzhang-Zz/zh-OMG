@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "张逸群的个人主页-OMG"
 description              : "—— “<em>深耕开放环境机器学习，赋智前沿数据科学应用</em> ”"
-repository               : "yqzhang-Zz.github.io/"
+repository               : "yqzhang-Zz.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
