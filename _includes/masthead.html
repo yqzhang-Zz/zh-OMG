@@ -21,15 +21,28 @@
 </div>
 
 <script>
-  // 强制修正“中文主页”按钮的跳转逻辑
   document.addEventListener("DOMContentLoaded", function() {
+    // 1. 处理特定的“中文主页”大标题
     var homeLink = document.querySelector(".masthead__menu-home-item a");
     if (homeLink) {
       homeLink.onclick = function(e) {
-        // 阻止模板自带的平滑滚动脚本运行
         e.stopPropagation();
-        window.location.href = "https://yqzhang-zz.github.io/zh/";
+        window.location.href = this.getAttribute("href");
       };
     }
+
+    // 2. 处理右侧 navigation.yml 生成的所有链接
+    var navLinks = document.querySelectorAll(".masthead__menu-item a");
+    navLinks.forEach(function(link) {
+      // 检查链接是否包含 http (即是否为绝对路径外链)
+      if (link.getAttribute("href").indexOf("http") === 0) {
+        link.onclick = function(e) {
+          // 彻底切断模板自带脚本的拦截
+          e.stopPropagation();
+          // 强制按照 HTML 里写的原始地址跳转
+          window.location.href = this.getAttribute("href");
+        };
+      }
+    });
   });
 </script>
