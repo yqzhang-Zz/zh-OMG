@@ -5,7 +5,7 @@ main:
 
   - title: "Homepage"
     # 加个问号后缀，强制骗过模板的自动补全
-    url: "https://yqzhang-zz.github.io/?home" 
+    url: "https://yqzhang-zz.github.io/" 
 
   - title: "关于OMG"
     url: "/zh-OMG/#about-OMG"
