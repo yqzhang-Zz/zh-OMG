@@ -34,6 +34,12 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 
 📢<span style="color: #0b5394"> 学生培养无法速成，本人会手把手教。因此本科生最晚请于大二下学期开学前后提出入组申请（特别优秀者可适度放宽）。研究生获得OMG发出的书面offer后也需尽快入组参加科研训练（可线上）。</span>
 
+<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #0b5394; border-radius: 6px; padding: 15px; margin: 1.5em 0; line-height: 1.6;">
+  <div style="color: #0b5394; font-size: 0.95em;">
+    <strong>📢 [2026.04.01]：</strong>2026年入组的研究生和本科科研生暂已招满，谢谢关注！OMG预计将于 <strong>2026年9月</strong> 开启2027级<strong>保研生招生</strong>工作；将于 <strong>2026年7月</strong> 释放1-2个<strong>本科科研生招生</strong>名额。敬请留意OMG最新动态。
+  </div>
+</div>
+
 <span class='anchor' id='values-and-goals'></span>
 <br>
 
