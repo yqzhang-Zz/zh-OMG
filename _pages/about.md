@@ -36,7 +36,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 
 <div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #0b5394; border-radius: 6px; padding: 15px; margin: 1.5em 0; line-height: 1.6;">
   <div style="color: #0b5394; font-size: 0.95em;">
-    <strong>📢 [2026.04.01]：</strong>2026年入组的研究生和本科科研生暂已招满，谢谢关注！OMG预计将于 <strong>2026年9月</strong> 开启2027级<strong>保研生招生</strong>工作，以及开放1-2个<strong>本科科研生招生</strong>名额。敬请留意OMG最新动态。
+    <strong>📢 [2026.04.01]：</strong>2026年入组的研究生和本科科研生暂已招满，谢谢关注！OMG预计将于 <strong>2026年9月</strong> 开启2027级<strong>保研生招生</strong>工作，以及开放1-2个<strong>本科科研生入组</strong>名额。敬请留意OMG最新动态。
   </div>
 </div>
 
