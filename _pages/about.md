@@ -614,6 +614,15 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       与本科科研生谭泽熙、研究生黄展培出国参加AAAI'26国际学术会议，于会场论文海报前合影留念。
     </div>
   </div>    
+
+    <div class="photo-item">
+    <img src="images/2026华商特等奖.jpg" alt="竞赛特等奖合影" class="photo-img">
+    <div class="photo-note">
+      <div class="photo-pin"></div>
+      <strong>2026年4月·广州增城·华商学院</strong>
+      肖豪奕、陈佳亮等OMG成员获华商智演AI国际大赛特等奖，于颁奖典礼合影留念。
+    </div>
+  </div>    
   
   </div>
   
