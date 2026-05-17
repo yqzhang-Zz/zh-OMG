@@ -277,7 +277,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigmta">SIGMTA</span> <span class="tag tag-sigllm">SIGLLM</span>
-      <p><strong>研究方向：</strong> 时序数据表征学习与聚类分析</p>
+      <p><strong>研究方向：</strong> 无监督时序数据表征学习</p>
       <p><strong>主要成果：</strong> 获本科生国家奖学金；发表多篇CCF-A/B/SCI一区Top论文，如AAAI'26，TNNLS'25；科研成果获计设大赛国赛一等奖。</p>
     </div>
   </div>
@@ -292,8 +292,8 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigmta">SIGMTA</span>
-      <p><strong>研究方向：</strong> 时序数据表征学习与分类</p>
-      <p><strong>主要成果：</strong> 发表多篇CCF-B/C类学术会议论文，包括BIBM'25，PRICAI'25；时序分类成果获中国大学生计算机设计大赛国赛一等奖。</p>
+      <p><strong>研究方向：</strong> 有监督时序数据表征学习</p>
+      <p><strong>主要成果：</strong> 发表多篇CCF-A/B/C类学术会议论文，包括SIGKDD'26, BIBM'25；时序分类成果获中国大学生计算机设计大赛国赛一等奖。</p>
     </div>
   </div>
 
