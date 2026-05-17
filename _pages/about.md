@@ -262,7 +262,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span>
-      <p><strong>研究方向：</strong> 异质特征数据在线特征选择与聚类分析</p>
+      <p><strong>研究方向：</strong> 无监督异质特征数据表征学习</p>
       <p><strong>主要成果：</strong> 发表SCI一区Top期刊等多篇论文，如TCYB'25；获计设大赛国赛一等奖等高水平竞赛奖项，主持国家级大创项目等。</p>
     </div>
   </div>
