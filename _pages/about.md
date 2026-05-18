@@ -409,245 +409,453 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Ma+Shan+Zheng&display=swap');
 
 /* --- 影像模块：真正的瀑布流记忆墙样式 --- */
+
 .photo-wall {
+
   /* 【关键修改 1】：废弃 flex，启用瀑布流 column 布局 */
+
   column-count: 3;
+
   column-gap: 30px;
+
   margin-top: 30px;
+
   margin-bottom: 50px;
+
   padding: 20px 10px;
+
 }
+
+
 
 /* 响应式：屏幕变窄时自动减少列数 */
+
 @media (max-width: 900px) {
+
   .photo-wall { column-count: 2; }
+
 }
+
 @media (max-width: 600px) {
+
   .photo-wall { column-count: 1; }
+
 }
+
+
 
 .photo-item {
+
   position: relative;
+
   width: 100%; 
+
+  /* 【关键修改 2】：让每个照片块内联显示，紧密排列，不拉伸高度 */
+
   display: inline-block; 
-  break-inside: avoid;
-  /* 【关键修改 1】：之前硬编码的 55px 可以缩小了，因为便签现在会自动把下方照片推开 */
-  margin-bottom: 25px; 
+
+  break-inside: avoid; /* 防止照片被切断到两列 */
+
+  margin-bottom: 55px; /* 留足底部空间给垂下来的便签 */
+
   transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
 }
+
+
 
 /* 随机旋转效果 */
+
 .photo-item:nth-child(2n) { transform: rotate(1.5deg); }
+
 .photo-item:nth-child(3n) { transform: rotate(-2deg); }
+
 .photo-item:nth-child(5n) { transform: rotate(2.5deg); }
+
 .photo-item:nth-child(7n) { transform: rotate(-1.5deg); }
 
+
+
 .photo-item:hover {
+
   transform: scale(1.04) rotate(0deg);
+
   z-index: 10;
+
 }
+
+
 
 .photo-img {
+
   width: 100%;
+
   height: auto;
+
   display: block;
+
   border-radius: 4px;
+
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+
   object-fit: cover;
+
 }
 
+
+
 /* --- 便签贴效果 --- */
-/* --- 便签贴效果 --- */
+
 .photo-note {
-  /* 【关键修改 2】：放弃 absolute，改用 relative 占位 */
-  position: relative; 
-  /* 【关键修改 3】：用负的 margin-top 把便签往上“扯”，盖住照片底部 */
-  margin-top: -60px; 
-  /* 让便签偏向右侧出头 */
-  margin-left: 12%; 
-  width: 92%; /* 控制便签宽度 */
+
+  position: absolute;
+
+  /* 【关键修改 3】：废弃 bottom 定位，改用 top 锚定在图片高度的 75% 处 */
+
+  top: 75%; 
+
+  right: -5%; /* 稍微偏出图片右侧 */
+
+  width: 85%; /* 限制便签宽度 */
+
+  background-color: #fffbc8; 
+
+  padding: 12px 15px 15px 15px; 
+
+  border-radius: 2px 2px 15px 2px;
+
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.12);
+
+  transform: rotate(-3deg);
+
+  font-size: 0.95em; /* 字号略微调大以适配手写体 */
+
+  color: #333;
+
+  line-height: 1.5;
+
+  /* 【关键修改 4】：应用云端手写字体 */
+
+  font-family: 'Caveat', 'Ma Shan Zheng', cursive;
+
+  z-index: 2; /* 确保在图片上层 */
+
+}
+
+
 
 /* 便签颜色的"随机"交替 */
+
 .photo-item:nth-child(2n) .photo-note { background-color: #e6f7ff; transform: rotate(2deg); } 
+
 .photo-item:nth-child(3n) .photo-note { background-color: #f6ffed; transform: rotate(-1deg); } 
+
 .photo-item:nth-child(5n) .photo-note { background-color: #fff0f6; transform: rotate(3deg); } 
+
 .photo-item:nth-child(6n) .photo-note { background-color: #fffbc8; transform: rotate(-2deg); } 
+
 .photo-item:nth-child(7n) .photo-note { background-color: #fff0f6; transform: rotate(-3deg); } 
 
+
+
 /* CSS 绘制的图钉 */
+
 .photo-pin {
+
   position: absolute;
+
   top: 4px; /* 图钉永远在便签最上方 */
+
   left: 50%;
+
   transform: translateX(-50%);
+
   width: 10px;
+
   height: 10px;
+
   border-radius: 50%;
+
   background: radial-gradient(circle at 30% 30%, #ff6b6b, #c92a2a); 
+
   box-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+
 }
+
+
 
 .photo-pin::after {
+
   content: '';
+
   position: absolute;
+
   top: 8px;
+
   left: 4px;
+
   width: 2px;
+
   height: 8px;
+
   background-color: rgba(0,0,0,0.2);
+
   transform: rotate(20deg);
+
   z-index: -1;
+
 }
+
+
 
 .photo-note strong {
+
   display: block;
+
   font-weight: bold;
+
   margin-bottom: 4px;
+
   color: #000;
+
   /* 标题混合使用手写英文和系统无衬线中文，确保地名时间清晰 */
+
   font-family: 'Caveat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
 }
 
-/* --- 便签位置自定义修饰类 --- */
-/* 垂直方向调整 */
-.photo-note.pos-lower { margin-top: -30px; }   /* 往下挪（遮挡照片少一点） */
-.photo-note.pos-lowest { margin-top: -10px; }  /* 几乎完全悬挂在照片下方 */
-.photo-note.pos-higher { margin-top: -90px; }  /* 往上挪（遮挡照片多一点） */
-
-.photo-note.pos-left {
-  margin-left: -4%; /* 往左出头 */
-  transform: rotate(3deg);
-
-/* 水平方向调整：移到照片左侧 */
-.photo-note.pos-left {
-  right: auto;
-  left: -5%;
-  transform: rotate(3deg); /* 换到左边时，改变一下倾斜方向更符合视觉直觉 */
-}
-
-/* 甚至可以组合使用，比如在左侧且靠下 */
-.photo-note.pos-left.pos-lower {
-  top: 85%;
-  right: auto;
-  left: -5%;
-}
-  
 </style>
 
 
+
+
+
 <p style="color: #666; font-size: 0.95em; font-style: italic; margin-bottom: 20px;">
+
   ※ 影像不仅是瞬间的定格，更是时光的切片——记录OMG高光时刻与温情瞬间。
+
 </p>
+
+
 
 <div class="photo-wall">
 
+
+
   <div class="photo-item">
+
     <img src="images/ECAI23会场.jpg" alt="参加学术会议风景" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2023年10月·波兰·克拉科夫</strong>
+
       出国参加ECAI'23国际学术会议，摄于会场周边。
+
     </div>
+
   </div>
 
+
+
   <div class="photo-item">
+
     <img src="images/BIBM23会场.jpg" alt="参加学术会议合影" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2023年12月·土耳其·伊斯坦布尔</strong>
+
       与本科科研生赵朗出国参加BIBM'23国际学术会议，摄于会议晚宴游轮。
+
     </div>
+
   </div>
 
+
+
   <div class="photo-item">
+
     <img src="images/WCCI24会场.jpg" alt="参加学术会议合影" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2024年6月·日本·横滨</strong>
+
       与本科科研生张云帆和研究生王鹏凯出国参加WCCI'24国际学术大会，摄于会议晚宴。
+
     </div>
+
   </div>
 
+
+
   <div class="photo-item">
+
     <img src="images/KDD24合影.jpg" alt="参加学术会议合影" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2024年8月·西班牙·巴塞罗那</strong>
+
       与本科科研生陈俊仰出国参加SIGKDD'24国际学术会议，于会场合影留念。
+
     </div>
+
   </div>
 
+
+
   <div class="photo-item">
+
     <img src="images/2025挑战杯赛场.jpg" alt="参加竞赛合影" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2025年5月·广东·肇庆学院</strong>
+
       张云帆等OMG成员获挑战杯省赛特等奖，部分团队成员与指导老师在赛场外合影留念。
+
     </div>
+
   </div>  
 
+
+
   <div class="photo-item">
+
     <img src="images/2025计设合影.jpg" alt="参加竞赛合影" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2025年7月·上海·华东理工大学</strong>
+
       谭泽熙、谢涛、肖豪奕等OMG成员获计设大赛国赛一等奖，赛场外合影留念。
+
     </div>
+
   </div>    
 
+
+
   <div class="photo-item">
+
     <img src="images/2025计设颁奖.jpg" alt="竞赛颁奖瞬间" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2025年7月·上海·华东理工大学</strong>
+
       计设大赛颁奖典礼，谭泽熙同学（左二）代团队上台领奖，杜小勇教授（左一）亲自颁奖。
+
     </div>
+
   </div>      
 
+
+
   <div class="photo-item">
+
     <img src="images/2025教师节合影.jpg" alt="教师节慰问合影" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2025年9月·办公室</strong>
+
       OMG全体研究生教师节慰问，于办公室合影留念。
+
     </div>
+
   </div>      
 
+
+
   <div class="photo-item">
+
     <img src="images/2025咖啡时刻.jpg" alt="组会前咖啡时刻" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2025年11月·广州</strong>
+
       自制拉花Cappuccino，摄于OMG线上组会前的咖啡时刻。
+
     </div>
+
   </div>
 
+
+
   <div class="photo-item">
+
     <img src="images/AAAI26会场.png" alt="参加学术会议合影" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2026年1月·新加坡</strong>
+
       与本科科研生谭泽熙、研究生黄展培出国参加AAAI'26国际学术会议，于会场论文海报前合影留念。
+
     </div>
+
   </div>    
 
+
+
   <div class="photo-item">
+
     <img src="images/2026华商特等奖.jpg" alt="竞赛特等奖合影" class="photo-img">
+
     <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2026年4月·广州增城·华商学院</strong>
+
       肖豪奕、陈佳亮等OMG成员获华商智演AI国际大赛特等奖，于颁奖典礼合影留念。
+
     </div>
+
   </div>    
 
+
+
   <div class="photo-item">
+
     <img src="images/2026期中小聚.png" alt="期中午餐聚会合影" class="photo-img">
-    <div class="photo-note pos-lowest">
+
+    <div class="photo-note">
+
       <div class="photo-pin"></div>
+
       <strong>2026年5月·广州</strong>
+
       与近期备受Rebuttal/Revision/Competition Deadline折磨的OMG部分成员期中小聚。
+
     </div>
+
   </div>   
+
   
   </div>
   
