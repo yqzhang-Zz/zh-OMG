@@ -516,6 +516,27 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
   /* 标题混合使用手写英文和系统无衬线中文，确保地名时间清晰 */
   font-family: 'Caveat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
+
+/* --- 便签位置自定义修饰类 --- */
+/* 垂直方向调整 */
+.photo-note.pos-lower { top: 85%; }   /* 往下挪，适合照片中下部有重要内容的 */
+.photo-note.pos-lowest { top: 95%; }  /* 挪到照片最底部边缘 */
+.photo-note.pos-higher { top: 60%; }  /* 往上挪，适合照片底部才是视觉重点的 */
+
+/* 水平方向调整：移到照片左侧 */
+.photo-note.pos-left {
+  right: auto;
+  left: -5%;
+  transform: rotate(3deg); /* 换到左边时，改变一下倾斜方向更符合视觉直觉 */
+}
+
+/* 甚至可以组合使用，比如在左侧且靠下 */
+.photo-note.pos-left.pos-lower {
+  top: 85%;
+  right: auto;
+  left: -5%;
+}
+  
 </style>
 
 
@@ -626,7 +647,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
   <div class="photo-item">
     <img src="images/2026期中小聚.png" alt="期中午餐聚会合影" class="photo-img">
-    <div class="photo-note">
+    <div class="photo-note pos-lowest">
       <div class="photo-pin"></div>
       <strong>2026年5月·广州</strong>
       与近期备受Rebuttal/Revision/Competition Deadline折磨的OMG部分成员期中小聚。
