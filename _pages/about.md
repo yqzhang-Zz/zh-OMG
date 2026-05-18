@@ -866,7 +866,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
     <img src="images/2026期中小聚.png" alt="期中午餐聚会合影" class="photo-img">
 
-    <div class="photo-note">
+    <div class="photo-note pos-lowest">
 
       <div class="photo-pin"></div>
 
