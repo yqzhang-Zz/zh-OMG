@@ -429,10 +429,10 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 .photo-item {
   position: relative;
   width: 100%; 
-  /* 【关键修改 2】：让每个照片块内联显示，紧密排列，不拉伸高度 */
   display: inline-block; 
-  break-inside: avoid; /* 防止照片被切断到两列 */
-  margin-bottom: 55px; /* 留足底部空间给垂下来的便签 */
+  break-inside: avoid;
+  /* 【关键修改 1】：之前硬编码的 55px 可以缩小了，因为便签现在会自动把下方照片推开 */
+  margin-bottom: 25px; 
   transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
@@ -457,24 +457,15 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 }
 
 /* --- 便签贴效果 --- */
+/* --- 便签贴效果 --- */
 .photo-note {
-  position: absolute;
-  /* 【关键修改 3】：废弃 bottom 定位，改用 top 锚定在图片高度的 75% 处 */
-  top: 75%; 
-  right: -5%; /* 稍微偏出图片右侧 */
-  width: 85%; /* 限制便签宽度 */
-  background-color: #fffbc8; 
-  padding: 12px 15px 15px 15px; 
-  border-radius: 2px 2px 15px 2px;
-  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.12);
-  transform: rotate(-3deg);
-  font-size: 0.95em; /* 字号略微调大以适配手写体 */
-  color: #333;
-  line-height: 1.5;
-  /* 【关键修改 4】：应用云端手写字体 */
-  font-family: 'Caveat', 'Ma Shan Zheng', cursive;
-  z-index: 2; /* 确保在图片上层 */
-}
+  /* 【关键修改 2】：放弃 absolute，改用 relative 占位 */
+  position: relative; 
+  /* 【关键修改 3】：用负的 margin-top 把便签往上“扯”，盖住照片底部 */
+  margin-top: -60px; 
+  /* 让便签偏向右侧出头 */
+  margin-left: 12%; 
+  width: 92%; /* 控制便签宽度 */
 
 /* 便签颜色的"随机"交替 */
 .photo-item:nth-child(2n) .photo-note { background-color: #e6f7ff; transform: rotate(2deg); } 
@@ -519,9 +510,13 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
 /* --- 便签位置自定义修饰类 --- */
 /* 垂直方向调整 */
-.photo-note.pos-lower { top: 85%; }   /* 往下挪，适合照片中下部有重要内容的 */
-.photo-note.pos-lowest { top: 95%; }  /* 挪到照片最底部边缘 */
-.photo-note.pos-higher { top: 60%; }  /* 往上挪，适合照片底部才是视觉重点的 */
+.photo-note.pos-lower { margin-top: -30px; }   /* 往下挪（遮挡照片少一点） */
+.photo-note.pos-lowest { margin-top: -10px; }  /* 几乎完全悬挂在照片下方 */
+.photo-note.pos-higher { margin-top: -90px; }  /* 往上挪（遮挡照片多一点） */
+
+.photo-note.pos-left {
+  margin-left: -4%; /* 往左出头 */
+  transform: rotate(3deg);
 
 /* 水平方向调整：移到照片左侧 */
 .photo-note.pos-left {
