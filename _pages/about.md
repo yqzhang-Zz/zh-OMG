@@ -780,7 +780,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
       <div class="photo-pin"></div>
 
-      <strong>2025年7月·上海·华东理工大学</strong>
+      <strong>2025年7月·上海</strong>
 
       计设大赛颁奖典礼，谭泽熙同学（左二）代团队上台领奖，杜小勇教授（左一）亲自颁奖。
 
@@ -852,7 +852,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
       <div class="photo-pin"></div>
 
-      <strong>2026年4月·广州增城·华商学院</strong>
+      <strong>2026年4月·广州</strong>
 
       肖豪奕、陈佳亮等OMG成员获华商智演AI国际大赛特等奖，于颁奖典礼合影留念。
 
