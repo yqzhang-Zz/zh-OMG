@@ -607,7 +607,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
   </div>
 
   <div class="photo-item">
-    <img src="images/AAAI26会场.jpg" alt="参加学术会议合影" class="photo-img">
+    <img src="images/AAAI26会场.png" alt="参加学术会议合影" class="photo-img">
     <div class="photo-note">
       <div class="photo-pin"></div>
       <strong>2026年1月·新加坡</strong>
@@ -615,7 +615,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
   </div>    
 
-    <div class="photo-item">
+  <div class="photo-item">
     <img src="images/2026华商特等奖.jpg" alt="竞赛特等奖合影" class="photo-img">
     <div class="photo-note">
       <div class="photo-pin"></div>
@@ -623,6 +623,15 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       肖豪奕、陈佳亮等OMG成员获华商智演AI国际大赛特等奖，于颁奖典礼合影留念。
     </div>
   </div>    
+
+  <div class="photo-item">
+    <img src="images/2026期中小聚.png" alt="期中午餐聚会合影" class="photo-img">
+    <div class="photo-note">
+      <div class="photo-pin"></div>
+      <strong>2026年5月·广州</strong>
+      与近期备受Rebuttal/Revision/Competition Deadline折磨的OMG部分成员期中小聚。
+    </div>
+  </div>   
   
   </div>
   
