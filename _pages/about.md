@@ -745,7 +745,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
       <div class="photo-pin"></div>
 
-      <strong>2025年5月·广东·肇庆学院</strong>
+      <strong>2025年5月·广东·肇庆</strong>
 
       张云帆等OMG成员获挑战杯省赛特等奖，部分团队成员与指导老师在赛场外合影留念。
 
@@ -763,7 +763,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
       <div class="photo-pin"></div>
 
-      <strong>2025年7月·上海·华东理工大学</strong>
+      <strong>2025年7月·上海</strong>
 
       谭泽熙、谢涛、肖豪奕等OMG成员获计设大赛国赛一等奖，赛场外合影留念。
 
@@ -799,7 +799,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
       <div class="photo-pin"></div>
 
-      <strong>2025年9月·办公室</strong>
+      <strong>2025年9月·广州</strong>
 
       OMG全体研究生教师节慰问，于办公室合影留念。
 
