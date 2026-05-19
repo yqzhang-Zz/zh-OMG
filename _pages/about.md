@@ -129,7 +129,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
 <br>
 
-课题组部分成员如下：
+课题组部分<span class="tag">在读</span>和<span class="tag tag-alumni">已毕业</span>成员如下：
 
 <style>
 /* 极简明亮的卡片网格布局 */
