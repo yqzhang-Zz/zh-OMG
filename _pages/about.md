@@ -307,7 +307,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span>
-      <p><strong>研究方向：</strong> 无监督联邦学习与大语言模型</p>
+      <p><strong>研究方向：</strong> 无监督联邦学习与大语言模型应用</p>
       <p><strong>主要成果：</strong> 主持国家级大创项目；发表多篇SCI一区Top和CCF-C类学术会议论文，包括IoTJ'26, ICPR'26。</p>
     </div>
   </div>
