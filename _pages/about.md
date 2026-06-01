@@ -338,7 +338,6 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span>
-      <p><strong>毕业去向：</strong> 香港浸会大学（全奖博士）</p>
       <p><strong>研究方向：</strong> 异质特征数据聚类分析与在线聚类分析</p>
       <p><strong>主要成果：</strong> 获研究生国家奖学金；发表TNNLS'25（ESI高被引），ICASSP'25，ECAI'24等多篇SCI一区Top期刊和CCF-B类国际会议论文。</p>
     </div>
