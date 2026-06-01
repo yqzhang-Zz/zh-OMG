@@ -412,7 +412,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
-        <h4>赵朗<br>(Shenghong Cai)</h4>
+        <h4>赵朗<br>(Lang Zhao)</h4>
         <p>2024届 本科毕业生</p>
       </div>
     </div>
