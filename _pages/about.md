@@ -301,14 +301,14 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
-        <h4>冯森<br>(Sen Feng)</h4>
-        <p>2023级 研究生</p> 
+        <h4>杨梓华<br>(Zihua Yang)</h4>
+        <p>2023级 本科科研生</p>
       </div>
     </div>
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span>
-      <p><strong>研究方向：</strong> 异质特征数据聚类分析与在线聚类分析</p>
-      <p><strong>主要成果：</strong> 获研究生国家奖学金；发表TNNLS'25（ESI高被引），ICASSP'25，ECAI'24等多篇SCI一区Top期刊和CCF-B类国际会议论文。</p>
+      <p><strong>研究方向：</strong> 无监督联邦学习与大语言模型</p>
+      <p><strong>主要成果：</strong> 主持国家级大创项目；发表多篇SCI一区Top和CCF-C类学术会议论文，包括IoTJ'26, ICPR'26。</p>
     </div>
   </div>
 
@@ -324,6 +324,23 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigmta">SIGMTA</span>
       <p><strong>研究方向：</strong> 生物医学时序数据表征学习与分类</p>
       <p><strong>主要成果：</strong> 在CCF-A/B以及SCI一区期刊发表论文多篇，如AAAI'26，TETCI'25，ICASSP'25等；获数模大赛国赛三等奖。</p>
+    </div>
+  </div>
+
+  
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">👨🏻‍🎓</div>
+      <div class="student-info">
+        <h4>冯森<br>(Sen Feng)</h4>
+        <p>2026届 硕士毕业生</p> 
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span>
+      <p><strong>毕业去向：</strong> 香港浸会大学（全奖博士）</p>
+      <p><strong>研究方向：</strong> 异质特征数据聚类分析与在线聚类分析</p>
+      <p><strong>主要成果：</strong> 获研究生国家奖学金；发表TNNLS'25（ESI高被引），ICASSP'25，ECAI'24等多篇SCI一区Top期刊和CCF-B类国际会议论文。</p>
     </div>
   </div>
   
@@ -388,6 +405,22 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <p><strong>毕业去向：</strong> 北师港浸大（研究助理）</p>
       <p><strong>研究方向：</strong> 分布式聚类分析与无监督联邦学习</p>
       <p><strong>主要成果：</strong> 发表SCI一区Top期刊和CCF-B类会议论文多篇，如ICDCS'24，IoTJ'26；成果获挑战杯省赛特等奖；主持国家级大创项目。</p>
+    </div>
+  </div>
+
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">👨🏻‍🎓</div>
+      <div class="student-info">
+        <h4>赵朗<br>(Shenghong Cai)</h4>
+        <p>2024届 本科毕业生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag tag-alumni">已毕业</span> <span class="tag tag-sigcdc">SIGCDC</span> 
+      <p><strong>毕业去向：</strong> 澳门大学（硕士研究生在读）</p>
+      <p><strong>研究方向：</strong> 概念漂移自适应与流式特征选择</p>
+      <p><strong>主要成果：</strong> 发表SCI一区Top期刊和CCF-B/C类会议论文多篇，如TCYB'25, BIBM'23, DSAA'22；获BIBM'23学生旅行奖。</p>
     </div>
   </div>
 ... ...
