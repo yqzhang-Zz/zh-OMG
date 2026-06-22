@@ -384,7 +384,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     <div class="student-body">
       <span class="tag tag-alumni">已毕业</span> <span class="tag tag-sigcdc">SIGCDC</span>
       <p><strong>研究方向：</strong> 开放环境数据聚类分析与缺失补全</p>
-      <p><strong>主要成果：</strong> 发表TETCI'25，EXSY'25等多篇SCI期刊论文；发表ECML-PKDD'26等CCF-B类国际会议论文。</p>
+      <p><strong>主要成果：</strong> 发表TETCI'25，EXSY'25等多篇SCI期刊论文；在机器学习与数据挖掘领域国际顶级会议ECML-PKDD'26（CCF-B）以一作发表学术论文。</p>
     </div>
   </div>
   
