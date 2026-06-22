@@ -360,7 +360,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
   <div class="student-card">
     <div class="student-header">
-      <div class="student-avatar">👨🏻‍🎓</div>
+      <div class="student-avatar">👩🏻‍🎓</div>
       <div class="student-info">
         <h4>张楚瑶<br>(Chuyao Zhang)</h4>
         <p>2026届 硕士毕业生</p> 
