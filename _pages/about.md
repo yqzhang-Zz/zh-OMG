@@ -357,6 +357,21 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <p><strong>主要成果：</strong> 获研究生国家奖学金；发表TNNLS'25（ESI高被引），ICASSP'25，ECAI'24等多篇SCI一区Top期刊和CCF-B类国际会议论文。</p>
     </div>
   </div>
+
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">👨🏻‍🎓</div>
+      <div class="student-info">
+        <h4>张楚瑶<br>(Chuyao Zhang)</h4>
+        <p>2026届 硕士毕业生</p> 
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag tag-alumni">已毕业</span> <span class="tag tag-sigcdc">SIGCDC</span>
+      <p><strong>研究方向：</strong> 开放环境数据聚类分析与缺失补全</p>
+      <p><strong>主要成果：</strong> 发表TETCI'25，EXSY'25等多篇SCI期刊论文；发表ECML-PKDD'26等CCF-B类国际会议论文。</p>
+    </div>
+  </div>
   
   <div class="student-card">
     <div class="student-header">
