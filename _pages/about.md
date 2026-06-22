@@ -316,6 +316,36 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
+        <h4>陈涛琛<br>(Taochen Chen)</h4>
+        <p>2025级 研究生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag">在读</span> <span class="tag tag-sigmta">SIGMTA</span>
+      <p><strong>研究方向：</strong> 时序数据表征学习与预测</p>
+      <p><strong>主要成果：</strong> 入选研究生“拔尖计划”；在CCF-B/C类知名国际会议发表论文多篇，如ECML-PKDD'26，IJCNN'26等；获数模大赛国赛三等奖。</p>
+    </div>
+  </div>
+
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">👨🏻‍🎓</div>
+      <div class="student-info">
+        <h4>李锷<br>(E Li)</h4>
+        <p>2024级 研究生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span>
+      <p><strong>研究方向：</strong> 自监督表征学习</p>
+      <p><strong>主要成果：</strong> 入选研究生“卓越计划”；在CCF-B/C类知名国际会议发表论文多篇，如ECML-PKDD'26，IJCNN'26等。</p>
+    </div>
+  </div>  
+
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">👨🏻‍🎓</div>
+      <div class="student-info">
         <h4>冯森<br>(Sen Feng)</h4>
         <p>2026届 硕士毕业生</p> 
       </div>
