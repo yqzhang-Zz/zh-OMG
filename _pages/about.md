@@ -254,21 +254,6 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
   
   <div class="student-card">
     <div class="student-header">
-      <div class="student-avatar">👩🏻‍🎓</div>
-      <div class="student-info">
-        <h4>陈欣禧<br>(Xinxi Chen)</h4>
-        <p>2022级 本科科研生</p>
-      </div>
-    </div>
-    <div class="student-body">
-      <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span>
-      <p><strong>研究方向：</strong> 无监督异质特征数据表征学习</p>
-      <p><strong>主要成果：</strong> 发表SCI一区Top期刊等多篇论文，如TCYB'25；获计设大赛国赛一等奖等高水平竞赛奖项，主持国家级大创项目等。</p>
-    </div>
-  </div>
-
-  <div class="student-card">
-    <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
         <h4>谭泽熙<br>(Zexi Tan)</h4>
@@ -327,7 +312,6 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
   </div>
 
-  
   <div class="student-card">
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
@@ -357,6 +341,22 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <p><strong>毕业去向：</strong> 香港浸会大学（全奖博士）</p>
       <p><strong>研究方向：</strong> 无监督机器学习与大语言模型</p>
       <p><strong>主要成果：</strong> 获研究生国家奖学金；发表CCF-A/SCI一区Top等多篇论文，如SIGMOD'26，AAAI'26，ESWA'25（ESI高被引）。</p>
+    </div>
+  </div>
+
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">👩🏻‍🎓</div>
+      <div class="student-info">
+        <h4>陈欣禧<br>(Xinxi Chen)</h4>
+        <p>2026届 本科毕业生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag tag-alumni">已毕业</span> <span class="tag tag-sigcdc">SIGCDC</span>
+      <p><strong>毕业去向：</strong> 北师港浸大</p>
+      <p><strong>研究方向：</strong> 无监督异质特征数据表征学习</p>
+      <p><strong>主要成果：</strong> 发表SCI一区Top期刊等多篇论文，如TCYB'25；获计设大赛国赛一等奖等高水平竞赛奖项，主持国家级大创项目等。</p>
     </div>
   </div>
 
@@ -402,7 +402,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag tag-alumni">已毕业</span> <span class="tag tag-sigcdc">SIGCDC</span> 
-      <p><strong>毕业去向：</strong> 北师港浸大（研究助理）</p>
+      <p><strong>毕业去向：</strong> 北师港浸大</p>
       <p><strong>研究方向：</strong> 分布式聚类分析与无监督联邦学习</p>
       <p><strong>主要成果：</strong> 发表SCI一区Top期刊和CCF-B类会议论文多篇，如ICDCS'24，IoTJ'26；成果获挑战杯省赛特等奖；主持国家级大创项目。</p>
     </div>
