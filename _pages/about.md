@@ -291,7 +291,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       </div>
     </div>
     <div class="student-body">
-      <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span>
+      <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span> <span class="tag tag-sigmta">SIGMTA</span>
       <p><strong>研究方向：</strong> 无监督联邦学习与大语言模型应用</p>
       <p><strong>主要成果：</strong> 主持国家级大创项目；在SCI一区Top期刊如IoTJ'26和国际知名学术会议如ICPR'26等发表系列学术论文。</p>
     </div>
@@ -306,7 +306,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       </div>
     </div>
     <div class="student-body">
-      <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span>
+      <span class="tag">在读</span> <span class="tag tag-sigmta">SIGMTA</span>
       <p><strong>研究方向：</strong> 时序数据的规模化表征学习与分析</p>
       <p><strong>主要成果：</strong> 主持国家级大创项目；在CCF-A/B/C类学术会议发表系列论文；成果荣获“华商智演·全球AI场景大赛”特等奖。</p>
     </div>
