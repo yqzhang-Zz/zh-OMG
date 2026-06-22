@@ -301,6 +301,21 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
+        <h4>肖豪奕<br>(Haoyi Xiao)</h4>
+        <p>2024级 本科科研生</p>
+      </div>
+    </div>
+    <div class="student-body">
+      <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span>
+      <p><strong>研究方向：</strong> 时序数据的规模化表征学习与分析</p>
+      <p><strong>主要成果：</strong> 主持国家级大创项目；在CCF-A/B/C类学术会议发表系列论文；成果荣获“华商智演·全球AI场景大赛”特等奖。</p>
+    </div>
+  </div>
+
+  <div class="student-card">
+    <div class="student-header">
+      <div class="student-avatar">👨🏻‍🎓</div>
+      <div class="student-info">
         <h4>黄展培<br>(Zhanpei Huang)</h4>
         <p>2024级 研究生</p>
       </div>
@@ -332,7 +347,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
         <h4>李锷<br>(E Li)</h4>
-        <p>2024级 研究生</p>
+        <p>2025级 研究生</p>
       </div>
     </div>
     <div class="student-body">
