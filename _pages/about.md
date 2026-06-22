@@ -337,7 +337,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span>
-      <p><strong>研究方向：</strong> 自监督表征学习</p>
+      <p><strong>研究方向：</strong> 自监督表征学习与聚类分析</p>
       <p><strong>主要成果：</strong> 入选研究生“卓越计划”；在CCF-B/C类知名国际会议发表论文多篇，如ECML-PKDD'26，IJCNN'26等。</p>
     </div>
   </div>  
