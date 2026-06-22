@@ -356,7 +356,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <span class="tag tag-alumni">已毕业</span> <span class="tag tag-sigcdc">SIGCDC</span>
       <p><strong>毕业去向：</strong> 北师港浸大</p>
       <p><strong>研究方向：</strong> 无监督异质特征数据表征学习</p>
-      <p><strong>主要成果：</strong> 发表SCI一区Top期刊等多篇论文，如TCYB'25；获计设大赛国赛一等奖等高水平竞赛奖项，主持国家级大创项目等。</p>
+      <p><strong>主要成果：</strong> 发表SCI一区Top期刊等多篇论文，如TCYB'25，TETCI'26；获计设大赛国赛一等奖等高水平竞赛奖项，主持国家级大创项目等。</p>
     </div>
   </div>
 
