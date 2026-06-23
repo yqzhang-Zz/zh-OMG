@@ -248,6 +248,26 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
   background-color: #fffbe6;
   color: #d48806;
 }
+
+/* 让卡片变成可点击的链接样式 */
+.student-card.clickable-card {
+  display: block; /* 确保以区块形式显示 */
+  text-decoration: none; /* 强制去掉所有下划线 */
+  color: inherit; /* 继承原有文字颜色，防止变成默认的蓝色链接 */
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); /* 平滑的过渡动画 */
+  cursor: pointer; /* 鼠标悬浮时变为小手图标 */
+}
+
+/* 鼠标悬浮时的交互反馈 */
+.student-card.clickable-card:hover {
+  transform: translateY(-4px); /* 卡片整体微微上浮 */
+  box-shadow: 0 10px 20px rgba(11, 83, 148, 0.12); /* 底部增加浅蓝色的阴影 */
+}
+
+/* 防止名字在部分浏览器下被加上下划线 */
+.student-card.clickable-card h4 {
+  text-decoration: none;
+}
 </style>
 
 <div class="student-grid">
@@ -267,7 +287,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
   </div>
 
-  <div class="student-card">
+  <a href="..." class="student-card clickable-card" target="https://kuxit.github.io/TAO-homepage/">
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
