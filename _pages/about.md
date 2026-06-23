@@ -287,11 +287,11 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
   </div>
 
-  <a href="..." class="student-card clickable-card" target="https://kuxit.github.io/TAO-homepage/">
+<a href="https://kuxit.github.io/TAO-homepage/" target="_blank" class="student-card clickable-card">
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
-        <h4>谢涛<i class="fas fa-external-link-alt" style="font-size: 0.7em; color: #94a3b8; margin-left: 4px;"></i><br>(Tao Xie)</h4>
+        <h4>谢涛 <i class="fas fa-external-link-alt" style="font-size: 0.7em; color: #94a3b8; margin-left: 4px;"></i><br>(Tao Xie)</h4>
         <p>2023级 本科科研生</p>
       </div>
     </div>
@@ -300,7 +300,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <p><strong>研究方向：</strong> 时序数据表征学习与分类</p>
       <p><strong>主要成果：</strong> 发表多篇CCF-A/B/C类学术会议论文，包括SIGKDD'26, BIBM'25；时序分类成果获中国大学生计算机设计大赛国赛一等奖。</p>
     </div>
-  </div>
+  </a>
 
   <div class="student-card">
     <div class="student-header">
