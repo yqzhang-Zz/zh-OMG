@@ -287,7 +287,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
   </div>
 
-<a href="https://kuxit.github.io/TAO-homepage/" target="_blank" class="student-card clickable-card">
+  <a href="https://kuxit.github.io/TAO-homepage/" target="_blank" class="student-card clickable-card">
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
