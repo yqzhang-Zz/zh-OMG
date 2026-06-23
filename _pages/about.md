@@ -249,24 +249,31 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
   color: #d48806;
 }
 
-/* 让卡片变成可点击的链接样式 */
+/* --- 可点击学生卡片的基础样式 --- */
 .student-card.clickable-card {
-  display: block; /* 确保以区块形式显示 */
-  text-decoration: none; /* 强制去掉所有下划线 */
-  color: inherit; /* 继承原有文字颜色，防止变成默认的蓝色链接 */
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); /* 平滑的过渡动画 */
-  cursor: pointer; /* 鼠标悬浮时变为小手图标 */
+  display: block; 
+  text-decoration: none !important; /* 彻底封杀卡片本身的下划线 */
+  color: inherit; 
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); 
+  cursor: pointer; 
+  /* 如果您原卡片没有边框，请加上这一行避免悬浮时画面抖动；如果有则可删去 */
+  border: 1px solid transparent; 
 }
 
-/* 鼠标悬浮时的交互反馈 */
+/* 彻底封杀卡片内所有文字（包括名字和标签）的下划线 */
+.student-card.clickable-card * {
+  text-decoration: none !important;
+}
+
+/* --- 鼠标悬浮时的交互反馈（核心修改区） --- */
 .student-card.clickable-card:hover {
   transform: translateY(-4px); /* 卡片整体微微上浮 */
-  box-shadow: 0 10px 20px rgba(11, 83, 148, 0.12); /* 底部增加浅蓝色的阴影 */
-}
-
-/* 防止名字在部分浏览器下被加上下划线 */
-.student-card.clickable-card h4 {
-  text-decoration: none;
+  
+  /* 亮橙色边框，视觉焦点瞬间集中 */
+  border-color: #f97316 !important; 
+  
+  /* 配套的浅橙色发光阴影，质感拉满，比单调的实线边框更高级 */
+  box-shadow: 0 8px 20px rgba(249, 115, 22, 0.15); 
 }
 </style>
 
@@ -317,11 +324,11 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
   </div>
 
-  <div class="student-card">
+  <a href="https://xiaohaoyi097-alt.github.io/" target="_blank" class="student-card clickable-card">
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
-        <h4>肖豪奕<br>(Haoyi Xiao)</h4>
+        <h4>肖豪奕 <i class="fas fa-external-link-alt" style="font-size: 0.7em; color: #94a3b8; margin-left: 4px;"></i><br>(Haoyi Xiao)</h4>
         <p>2024级 本科科研生</p>
       </div>
     </div>
@@ -330,7 +337,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <p><strong>研究方向：</strong> 时序数据的规模化表征学习与分析</p>
       <p><strong>主要成果：</strong> 主持国家级大创项目；在CCF-A/B/C类学术会议发表系列论文；成果荣获“华商智演·全球AI场景大赛”特等奖。</p>
     </div>
-  </div>
+  </a>
 
   <div class="student-card">
     <div class="student-header">
