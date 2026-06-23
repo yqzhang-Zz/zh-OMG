@@ -291,7 +291,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
-        <h4>谢涛<br>(Tao Xie)</h4>
+        <h4>谢涛<i class="fas fa-external-link-alt" style="font-size: 0.7em; color: #94a3b8; margin-left: 4px;"></i><br>(Tao Xie)</h4>
         <p>2023级 本科科研生</p>
       </div>
     </div>
