@@ -279,11 +279,11 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
 <div class="student-grid">
   
-  <div class="student-card">
+  <a href="https://zexi-tan.github.io/" target="_blank" class="student-card clickable-card">
     <div class="student-header">
       <div class="student-avatar">👨🏻‍🎓</div>
       <div class="student-info">
-        <h4>谭泽熙<br>(Zexi Tan)</h4>
+        <h4>谭泽熙 <i class="fas fa-external-link-alt" style="font-size: 0.7em; color: #94a3b8; margin-left: 4px;"></i><br>(Zexi Tan)</h4>
         <p>2023级 本科科研生</p>
       </div>
     </div>
@@ -292,7 +292,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <p><strong>研究方向：</strong> 无监督时序数据表征学习</p>
       <p><strong>主要成果：</strong> 获本科生国家奖学金；发表多篇CCF-A/B/SCI一区Top论文，如AAAI'26，TNNLS'25；科研成果获计设大赛国赛一等奖。</p>
     </div>
-  </div>
+  </a>
 
   <a href="https://kuxit.github.io/TAO-homepage/" target="_blank" class="student-card clickable-card">
     <div class="student-header">
