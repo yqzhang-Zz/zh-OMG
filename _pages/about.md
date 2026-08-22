@@ -394,8 +394,8 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag tag-alumni">已毕业</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span>
-      <p><strong>毕业去向：</strong> 河海大学（全奖博士）</p>
-      <p><strong>研究方向：</strong> 异质特征数据聚类分析与在线聚类分析</p>
+      <p><strong>毕业去向：</strong> 河海大学（博士研究生在读）</p>
+      <p><strong>研究方向：</strong> 异质特征数据聚类分析与流数据分析</p>
       <p><strong>主要成果：</strong> 获研究生国家奖学金；发表TNNLS'25（ESI高被引），ICASSP'25，ECAI'24等多篇SCI一区Top期刊和CCF-B类国际会议论文。</p>
     </div>
   </div>
@@ -410,7 +410,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag tag-alumni">已毕业</span> <span class="tag tag-sigcdc">SIGCDC</span>
-      <p><strong>研究方向：</strong> 开放环境数据聚类分析与缺失补全</p>
+      <p><strong>研究方向：</strong> 开放环境数据聚类分析与缺失数据补全</p>
       <p><strong>主要成果：</strong> 发表TETCI'25，EXSY'25等多篇SCI期刊论文；以一作在机器学习与数据挖掘领域的国际顶级会议ECML-PKDD'26发表学术论文。</p>
     </div>
   </div>
