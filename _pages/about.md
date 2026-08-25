@@ -320,7 +320,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span> <span class="tag tag-sigmta">SIGMTA</span>
       <p><strong>研究方向：</strong> 无监督联邦学习与大语言模型应用</p>
-      <p><strong>主要成果：</strong> 主持国家级大创项目；在SCI一区Top期刊如IoTJ'26和国际知名学术会议如ICPR'26等发表系列学术论文。</p>
+      <p><strong>主要成果：</strong> 主持国家级大创项目；在SCI一区Top期刊如IoTJ'26和国际知名学术会议如CIKM'26等发表系列学术论文。</p>
     </div>
   </div>
 
@@ -350,7 +350,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigmta">SIGMTA</span>
       <p><strong>研究方向：</strong> 生物医学时序数据表征学习与分类</p>
-      <p><strong>主要成果：</strong> 在CCF-A/B以及SCI一区期刊发表论文多篇，如AAAI'26，TETCI'25，ICASSP'25等；获数模大赛国赛三等奖。</p>
+      <p><strong>主要成果：</strong> 在CCF-A/B以及SCI一区期刊发表论文多篇，如AAAI'26，TETCI'25，CIM'26等；获数模大赛国赛三等奖。</p>
     </div>
   </div>
 
@@ -365,7 +365,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigmta">SIGMTA</span>
       <p><strong>研究方向：</strong> 时序数据表征学习与预测</p>
-      <p><strong>主要成果：</strong> 入选研究生“拔尖计划”；在CCF-B/C类知名国际会议发表论文多篇，如ECML-PKDD'26，IJCNN'26等；获数模大赛国赛三等奖。</p>
+      <p><strong>主要成果：</strong> 入选研究生“拔尖计划”；在SCI一区期刊和CCF-B类国际会议发表论文多篇，如CIM'26, ECML-PKDD'26等；获数模大赛国赛三等奖。</p>
     </div>
   </div>
 
@@ -475,7 +475,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <span class="tag tag-alumni">已毕业</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span>
       <p><strong>毕业去向：</strong> 香港浸会大学（全奖直博）</p>
       <p><strong>研究方向：</strong> 无监督联邦学习与大语言模型</p>
-      <p><strong>主要成果：</strong> 获本科生国家奖学金；发表CCF-A/SCI论文多篇，如AAAI'25，NEUCOM'25；成果获国际会议最佳论文奖和挑战杯国赛三等奖。</p>
+      <p><strong>主要成果：</strong> 获本科生国家奖学金；发表CCF-A类和综述论文多篇，如AAAI'25，TAI'26；成果获国际会议最佳论文奖和挑战杯国赛三等奖。</p>
     </div>
   </div>
 
@@ -491,7 +491,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
       <span class="tag tag-alumni">已毕业</span> <span class="tag tag-sigcdc">SIGCDC</span> 
       <p><strong>毕业去向：</strong> 北师港浸大</p>
       <p><strong>研究方向：</strong> 分布式聚类分析与无监督联邦学习</p>
-      <p><strong>主要成果：</strong> 发表SCI一区Top期刊和CCF-B类会议论文多篇，如ICDCS'24，IoTJ'26；成果获挑战杯省赛特等奖；主持国家级大创项目。</p>
+      <p><strong>主要成果：</strong> 发表SCI一区Top期刊和CCF-B类会议论文多篇，如CIKM'26, ICDCS'24，IoTJ'26；成果获挑战杯省赛特等奖；主持国家级大创项目。</p>
     </div>
   </div>
 
