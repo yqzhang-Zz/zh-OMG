@@ -30,6 +30,16 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 
 <div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #0b5394; border-radius: 6px; padding: 15px; margin: 1.5em 0; line-height: 1.6;">
   <div style="color: #0b5394; font-size: 0.95em;">
+    <p>📢<span style="color: #0b5394"> 有意入组的同学请仔细阅读OMG【<strong>价值观与目标</strong>】和【<strong>入组考核要求</strong>】后邮件联系本人（yqzhang@gdut.edu.cn）。<strong>邮件请声明理解招生要求，附上个人简历，否则不予回复</strong>。</span></p>
+
+    <p>📢<span style="color: #0b5394"> 精力有限，资源有限，只能做到集中精力托举少量同学。每年仅择优招【<strong>研究生2-3人</strong>】和【<strong>本科科研生2-3人</strong>】，<strong>指标有限，招满即止，入组机会先到先得</strong>。</span></p>
+
+    <p>📢<span style="color: #0b5394"> 学生培养和科学研究均无法速成，因此本科生申请入组请在大二下学期开学前联系（特别优秀者可适度放宽）。若目标只是单纯在特定时间节点前发表论文实现保研加分，请勿联系。</span></p>
+  </div>
+</div>
+
+<div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #0b5394; border-radius: 6px; padding: 15px; margin: 1.5em 0; line-height: 1.6;">
+  <div style="color: #0b5394; font-size: 0.95em;">
 📢<span style="color: #0b5394"> 有意入组的同学请仔细阅读OMG【**价值观与目标**】和【**入组考核要求**】后邮件联系本人（yqzhang@gdut.edu.cn）。**邮件请声明理解招生要求，附上个人简历，否则不予回复**。</span>
 
 📢<span style="color: #0b5394"> 精力有限，资源有限，只能做到集中精力托举少量同学。每年仅择优招【**研究生2-3人**】和【**本科科研生2-3人**】，**指标有限，招满即止，入组机会先到先得**。</span>
