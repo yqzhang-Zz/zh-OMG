@@ -313,7 +313,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigmta">SIGMTA</span>
       <p><strong>研究方向：</strong> 时序数据表征学习与分类</p>
-      <p><strong>主要成果：</strong> 发表多篇CCF-A/B/C类学术会议论文，包括SIGKDD'26, BIBM'25；时序分类成果获中国大学生计算机设计大赛国赛一等奖。</p>
+      <p><strong>主要成果：</strong> 发表多篇学术会议论文，包括SIGKDD'26 (CCF-A), BIBM'25 (CCF-B), ICDM'26 (BlueSky)；时序分类成果获中国大学生计算机设计大赛国赛一等奖。</p>
     </div>
   </a>
 
