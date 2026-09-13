@@ -297,7 +297,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigmta">SIGMTA</span> <span class="tag tag-sigllm">SIGLLM</span>
-      <p><strong>毕业去向：</strong> 南方科技大学（直博）</p>
+      <p><strong>预计去向：</strong> 南方科技大学（直博）</p>
       <p><strong>研究方向：</strong> 无监督时序数据表征学习</p>
       <p><strong>主要成果：</strong> 获本科生国家奖学金；发表多篇CCF-A/B/SCI一区Top论文，如AAAI'26，TNNLS'25；科研成果获计设大赛国赛一等奖。</p>
     </div>
