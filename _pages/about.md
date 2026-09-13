@@ -1007,6 +1007,39 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
 
   </div>   
 
+
+  <div class="photo-item">
+
+    <img src="images/KDD26会场.jpg" alt="KDD 2026 谢涛同学会场照片" class="photo-img">
+
+    <div class="photo-note pos-lowest">
+
+      <div class="photo-pin"></div>
+
+      <strong>2026年8月·韩国·济州岛</strong>
+
+      本科科研生谢涛出国参加SIGKDD'26国际学术会议，与会场和海报合影留念。
+
+    </div>
+
+  </div>  
+
+
+  <div class="photo-item">
+
+    <img src="images/2026教师节合影.jpg" alt="2026教师节慰问合影" class="photo-img">
+
+    <div class="photo-note pos-lowest">
+
+      <div class="photo-pin"></div>
+
+      <strong>2026年9月·广州</strong>
+
+      OMG研一新生和本科科研生时序小组教师节慰问，于办公室合影留念。
+      
+    </div>
+
+  </div>   
   
   </div>
   
