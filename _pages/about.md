@@ -313,6 +313,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigmta">SIGMTA</span>
+      <p><strong>预计去向：</strong> 中国科学院大学（直博）</p>
       <p><strong>研究方向：</strong> 时序数据表征学习与分类</p>
       <p><strong>主要成果：</strong> 发表多篇学术会议论文，包括SIGKDD'26 (CCF-A), BIBM'25 (CCF-B), ICDM'26 (BlueSky)；时序分类成果获中国大学生计算机设计大赛国赛一等奖。</p>
     </div>
@@ -328,6 +329,7 @@ OMG成员分属不同特别兴趣小组 (SIG: Special Interest Group)，包括�
     </div>
     <div class="student-body">
       <span class="tag">在读</span> <span class="tag tag-sigcdc">SIGCDC</span> <span class="tag tag-sigllm">SIGLLM</span> <span class="tag tag-sigmta">SIGMTA</span>
+      <p><strong>预计去向：</strong> 中科院计算所</p>
       <p><strong>研究方向：</strong> 无监督联邦学习与大语言模型应用</p>
       <p><strong>主要成果：</strong> 主持国家级大创项目；在SCI一区Top期刊如IoTJ'26和国际知名学术会议如CIKM'26等发表系列学术论文。</p>
     </div>
