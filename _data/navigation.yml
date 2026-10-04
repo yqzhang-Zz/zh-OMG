@@ -1,20 +1,11 @@
-# main links links
 main:
-  - title: "Homepage"
-    url: "https://yqzhang-zz.github.io/" 
-
-  - title: "关于OMG"
-    url: "/zh-OMG/#about-OMG"
-
-  - title: "价值观与目标"
-    url: "/zh-OMG/#values-and-goals"
-
-  - title: "入组考核要求"
-    url: "/zh-OMG/#entry-requirements"
-
-  - title: "成员"
-    url: "/zh-OMG/#OMG-members"
-
-  - title: "影像"
-    url: "/zh-OMG/#OMG-album"
-
+- title: 关于OMG
+  url: /zh-OMG/#about-OMG
+- title: 价值观与目标
+  url: /zh-OMG/#values-and-goals
+- title: 入组考核要求
+  url: /zh-OMG/#entry-requirements
+- title: 成员
+  url: /zh-OMG/#OMG-members
+- title: 影像
+  url: /zh-OMG/#OMG-album

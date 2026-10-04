@@ -30,7 +30,7 @@ OMG具体研究方向可参考本人主页所列论文和科研课题。组内**
 
 <div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #0b5394; border-radius: 6px; padding: 15px; margin: 1.5em 0; line-height: 1.6;">
   <div style="color: #0b5394; font-size: 0.95em;">
-    📢<span style="color: #0b5394"> 有意入组的同学请仔细阅读OMG【<strong>价值观与目标</strong>】和【<strong>入组考核要求</strong>】后邮件联系本人（yqzhang@gdut.edu.cn）。<strong>邮件请声明理解招生要求，附上个人简历，否则不予回复</strong>。</span>
+    📢<span style="color: #0b5394"> 有意入组的同学请仔细阅读OMG【<strong>价值观与目标</strong>】和【<strong>入组考核要求</strong>】后邮件联系本人（{{ site.data.academic_profile.identity.public_email }}）。<strong>邮件请声明理解招生要求，附上个人简历，否则不予回复</strong>。</span>
 <br><br>
 
     📢<span style="color: #0b5394"> 精力有限，资源有限，只能做到集中精力托举少量同学。每年仅择优招【<strong>研究生2-3人</strong>】和【<strong>本科科研生2-3人</strong>】，<strong>指标有限，招满即止，入组机会先到先得</strong>。</span><br><br>
